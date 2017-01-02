@@ -13,8 +13,8 @@ Class Day/Time: T TR 3:00-5:50
 Class Website: https://github.com/ablanton/SJSU_X3D_17
 
 [GreenSheet](https://github.com/ablanton/SJSU_X3D_17/blob/master/GREENSHEET.md)
-|[Resources](https://github.com/ablanton/SJSU_X3D_17/blob/master/RESOURCES.md)
-|[Class Website](https://github.com/ablanton/SJSU_X3D_17)
+| [Resources](https://github.com/ablanton/SJSU_X3D_17/blob/master/RESOURCES.md)
+| [Class Website](https://github.com/ablanton/SJSU_X3D_17)
 
 Project One
 -----------
