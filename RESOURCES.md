@@ -18,3 +18,6 @@ Class Website: https://github.com/ablanton/SJSU_X3D_17
 
 Resources
 ---------
+
+<iframe src="https://player.vimeo.com/video/194963450" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<p><a href="https://vimeo.com/194963450">Spectacle, Speculation, Spam</a> from <a href="https://vimeo.com/alanwarburton">Alan Warburton</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
