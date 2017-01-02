@@ -16,17 +16,17 @@ Class Website: https://github.com/ablanton/SJSU_X3D_17
 | [Resources](https://github.com/ablanton/SJSU_X3D_17/blob/master/RESOURCES.md)
 | [Class Website](https://github.com/ablanton/SJSU_X3D_17)
 
-##### Project One
------------------
-
-##### Project Two
------------------
-
-##### Project Three
--------------------
-
-##### Project Four
+###### Project One
 ------------------
+
+###### Project Two
+------------------
+
+###### Project Three
+--------------------
+
+###### Project Four
+-------------------
 
 ###### Final
 ------------
