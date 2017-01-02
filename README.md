@@ -19,13 +19,13 @@ Introduce experimental 3D methods with a focus on conceptual and creative proces
 Learning Outcomes
 -----------------
 
-* ######LO1: Produce work in line with contemporary art practices.
-* ######LO2: Present created work in a professional manner.
-* ######LO3: Discuss ideas and concepts related to contemporary 3D digital art.
-* ######LO4: Complete original projects exploring the visual and conceptual language of experimental 3D.
-* ######LO5: Demonstrate knowledge of the works of some of the most important 3D animation/print artists/ projects.
-* ######LO6: Think critically about 3D methods from a digital media art context including 3D rendering, 3D printing, and time-based 3D methods.
-* ######LO7: Demonstrate technical skills to use Maya and other open source software.
+1. ######LO1: Produce work in line with contemporary art practices.
+2. ######LO2: Present created work in a professional manner.
+3. ######LO3: Discuss ideas and concepts related to contemporary 3D digital art.
+4. ######LO4: Complete original projects exploring the visual and conceptual language of experimental 3D.
+5. ######LO5: Demonstrate knowledge of the works of some of the most important 3D animation/print artists/ projects.
+6. ######LO6: Think critically about 3D methods from a digital media art context including 3D rendering, 3D printing, and time-based 3D methods.
+7. ######LO7: Demonstrate technical skills to use Maya and other open source software.
 
 Textbook
 --------
