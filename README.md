@@ -1,21 +1,31 @@
 **SJSU X3D Spring 2017**
 ======================
+Department of Art and Art History
+Art 102, 3D Modeling and Printing, Spring 2017
 
 ![gif](http://i.imgur.com/TuOehiT.gif)
 
+Instructor: Andrew Blanton
+Office: Art 311
+Email: Andrew.blanton@sjsu.edu
+Office Hours: T and TR 4-5
+Class Day/Time: T TR 3:00-5:50
+Class Website: https://github.com/ablanton/SJSU_X3D_17
+
 Course Description
 ------------------
+Introduce experimental 3D methods with a focus on conceptual and creative processes using Maya software and 3D printing technology while addressing contemporary uses for artistic production.
 
 Learning Outcomes
 -----------------
 
-#######LO1:
-######LO2:
-######LO3:
-######LO4:
-######LO5:
-######LO6:
-######LO7:
+######LO1: Produce work in line with contemporary art practices.
+######LO2: Present created work in a professional manner.
+######LO3: Discuss ideas and concepts related to contemporary 3D digital art.
+######LO4: Complete original projects exploring the visual and conceptual language of experimental 3D.
+######LO5: Demonstrate knowledge of the works of some of the most important 3D animation/print artists/ projects.
+######LO6: Think critically about 3D methods from a digital media art context including 3D rendering, 3D printing, and time-based 3D methods.
+######LO7: Demonstrate technical skills to use Maya and other open source software.
 
 Textbook
 --------
