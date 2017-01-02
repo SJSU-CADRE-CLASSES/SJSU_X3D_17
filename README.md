@@ -9,13 +9,13 @@ Course Description
 Learning Outcomes
 -----------------
 
-######LO1:
+#######LO1:
 ######LO2:
 ######LO3:
 ######LO4:
 ######LO5:
 ######LO6:
-######LO7:######
+######LO7:
 
 Textbook
 --------
@@ -24,8 +24,11 @@ Course Requirements and Assignments
 -----------------------------------
 
 *First Assignment*
+
 *Second Experiment*
+
 *Third Assignment*
+
 *Final Presentation*
 
 Grading Policy and Rubric
