@@ -12,6 +12,10 @@ Office Hours: T and TR 4-5
 Class Day/Time: T TR 3:00-5:50
 Class Website: https://github.com/ablanton/SJSU_X3D_17
 
+[GreenSheet](https://github.com/ablanton/SJSU_X3D_17/blob/master/GREENSHEET.md)
+[Resources](https://github.com/ablanton/SJSU_X3D_17/blob/master/RESOURCES.md)
+[Class Website](https://github.com/ablanton/SJSU_X3D_17)
+
 Course Description
 ------------------
 Introduce experimental 3D methods with a focus on conceptual and creative processes using Maya software and 3D printing technology while addressing contemporary uses for artistic production.
