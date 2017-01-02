@@ -17,19 +17,19 @@ Class Website: https://github.com/ablanton/SJSU_X3D_17
 | [Class Website](https://github.com/ablanton/SJSU_X3D_17)
 
 #####Project One
------------
+----------------
 
 #####Project Two
------------
+----------------
 
 #####Project Three
--------------
+------------------
 
 #####Project Four
-------------
+-----------------
 
-Final
------
+###### Final
+------------
 
 Schedule
 --------
