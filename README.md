@@ -41,10 +41,7 @@ Classroom Protocol
 Participation
 -------------
 
-######Participation in class discussions for readings, material that we watch in class, giving feedback to your peers on their work is mandatory. Remember that 20% of your grade is based on your
-
-######ART 102 – 3D Modeling and Printing Page 2 of 9
-participation in class and you are expected to actively participate in such discourses as they are some of the most important sections of our class. Your brief written summary of your discussion comments will be due to the instructor at the end of each Presentation day and will be evaluated for demonstrated thoughtfulness and understanding of key concepts and issues.
+######Participation in class discussions for readings, material that we watch in class, giving feedback to your peers on their work is mandatory. Remember that 20% of your grade is based on your participation in class and you are expected to actively participate in such discourses as they are some of the most important sections of our class. Your brief written summary of your discussion comments will be due to the instructor at the end of each Presentation day and will be evaluated for demonstrated thoughtfulness and understanding of key concepts and issues.
 
 ######Sleeping in class, texting, and looking at your Facebook or any other activity unrelated to class will also have impact on your participation grade. You are responsible for the missing material if you fall asleep in class.
 
