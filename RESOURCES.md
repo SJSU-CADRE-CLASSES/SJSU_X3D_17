@@ -34,4 +34,4 @@ Resources
 [Artistic Activism and Agonistic Spaces](http://www.artandresearch.org.uk/v1n2/mouffe.html)
 [The Conspiracy of Art](https://kirkbrideplan.files.wordpress.com/2012/10/jean-baudrillard-the-conspiracy-of-art.pdf)
 [Autonomedia](http://autonomedia.org/)
-[Center for Artistic Activism](https://artisticactivism.org/reading-list/)
+[Center for Artistic Activism](https://artisticactivism.org/reading-list/s)
