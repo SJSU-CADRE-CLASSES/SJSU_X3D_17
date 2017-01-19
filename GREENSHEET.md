@@ -70,7 +70,7 @@ Schedule
 --------
 
 | Date             |                                                                                                                                                                        |
-| ---------------- |:----------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+| ------------------- |----------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |*Week 1* 01/26    | Course Introduction/Overview of Syllabus *** Introductions (Instructor-Students) *** Online Research/Tutorials/GitHub Registration                                     |
 |*Week 2* 01/31    | Due:Reading 1 *** Intro to Maya basics *** Introduction to experimental 3D methods in Digital Media Art context                                                        |
 | 2/2              | Screen related works (narrative + modeling + lighting) Work on first modeling assignment                                                                               |
