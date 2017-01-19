@@ -69,16 +69,16 @@ Participation
 Schedule
 --------
 
-| Date--             |                                                                                                                                                                        |
+| Date--              |                                                                                                                                                                        |
 | ------------------- |----------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|*Week 1* 01/26    | Course Introduction/Overview of Syllabus *** Introductions (Instructor-Students) *** Online Research/Tutorials/GitHub Registration                                     |
-|*Week 2* 01/31    | Due:Reading 1 *** Intro to Maya basics *** Introduction to experimental 3D methods in Digital Media Art context                                                        |
-| 2/2              | Screen related works (narrative + modeling + lighting) Work on first modeling assignment                                                                               |
-| *Week 3*         | Due Assignment One: Intro to Maya Basics + Modeling Assignment *** Introduction to Lighting, Introduction to rendering *** Due: Digital Tutor Lighting + Rendering *** Class exercise/Maya Problem Solving |
-|                  | Screen Inspiration Videos *** Ideas + Concepts for the first project (each student must come to class with sketches/storyboard/research notes/and concepts they are interested in) |
-| *Week 4*         | Introduction to texture + 2D vs. 3D *** Workshop Day |
-|                  | Workshop Day (working on your first project) |
-| *Week 5*         |  |
+|*Week 1* 01/26       | Course Introduction/Overview of Syllabus *** Introductions (Instructor-Students) *** Online Research/Tutorials/GitHub Registration                                     |
+|*Week 2* 01/31       | Due:Reading 1 *** Intro to Maya basics *** Introduction to experimental 3D methods in Digital Media Art context                                                        |
+| 2/2                 | Screen related works (narrative + modeling + lighting) Work on first modeling assignment                                                                               |
+| *Week 3*            | Due Assignment One: Intro to Maya Basics + Modeling Assignment *** Introduction to Lighting, Introduction to rendering *** Due: Digital Tutor Lighting + Rendering *** Class exercise/Maya Problem Solving |
+|                     | Screen Inspiration Videos *** Ideas + Concepts for the first project (each student must come to class with sketches/storyboard/research notes/and concepts they are interested in) |
+| *Week 4*            | Introduction to texture + 2D vs. 3D *** Workshop Day |
+|                     | Workshop Day (working on your first project) |
+| *Week 5*            |  |
 |                  |  |
 | *Week 6*         |  |
 |                  |  |
