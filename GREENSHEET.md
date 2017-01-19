@@ -73,36 +73,36 @@ Schedule
 | ------------------- |----------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |*Week 1* 01/26       | Course Introduction/Overview of Syllabus *** Introductions (Instructor-Students) *** Online Research/Tutorials/GitHub Registration                                     |
 |*Week 2* 01/31       | Due:Reading 1 *** Intro to Maya basics *** Introduction to experimental 3D methods in Digital Media Art context                                                        |
-| 2/2                 | Screen related works (narrative + modeling + lighting) Work on first modeling assignment                                                                               |
-| *Week 3*            | Due Assignment One: Intro to Maya Basics + Modeling Assignment *** Introduction to Lighting, Introduction to rendering *** Due: Digital Tutor Lighting + Rendering *** Class exercise/Maya Problem Solving |
-|                     | Screen Inspiration Videos *** Ideas + Concepts for the first project (each student must come to class with sketches/storyboard/research notes/and concepts they are interested in) |
-| *Week 4*            | Introduction to texture + 2D vs. 3D *** Workshop Day |
-|                     | Workshop Day (working on your first project) |
-| *Week 5*            |  |
-|                  |  |
-| *Week 6*         |  |
-|                  |  |
-| *Week 7*         |  |
-|                  |  |
-| *Week 8*         |  |
-|                  |  |
-| *Week 9*         |  |
-|                  |  |
-| *Week 10*        |  |
-|                  |  |
-| *Week 11*        |  |
-|                  |  |
-| *Week 12*        |  |
-|                  |  |
-| *Week 13*        |  |
-|                  |  |
-| *Week 14*        |  |
-|                  |  |
-| *Week 15*        |  |
-|                  |  |
-| *Week 16*        |  |
-|                  |  |
-| *Final*          |  |
+|02/02                | Screen related works (narrative + modeling + lighting) Work on first modeling assignment                                                                               |
+| *Week 3* 02/07      | Due Assignment One: Intro to Maya Basics + Modeling Assignment *** Introduction to Lighting, Introduction to rendering *** Due: Digital Tutor Lighting + Rendering *** Class exercise/Maya Problem Solving |
+|02/9                 | Screen Inspiration Videos *** Ideas + Concepts for the first project (each student must come to class with sketches/storyboard/research notes/and concepts they are interested in) |
+| *Week 4* 02/14      | Introduction to texture + 2D vs. 3D *** Workshop Day |
+| 2/16                    | Workshop Day (working on your first project) |
+| *Week 5* 2/21           |  |
+| 2/23                 |  |
+| *Week 6* 2/28        |  |
+| 3/2                  |  |
+| *Week 7* 3/7        |  |
+| 3/9                 |  |
+| *Week 8* 3/14        |  |
+| 3/16                 |  |
+| *Week 9* 3/21        |  |
+| 3/23                 |  |
+| *Week 10* 3/28       |  |
+| 3/30                 |  |
+| *Week 11* 4/4       |  |
+| 4/6                 |  |
+| *Week 12* 4/11       |  |
+| 4/13                 |  |
+| *Week 13* 4/18       |  |
+| 4/20                 |  |
+| *Week 14* 4/25       |  |
+| 4/27                 |  |
+| *Week 15* 5/2       |  |
+| 5/4                 |  |
+| *Week 16* 5/9       |  |
+| 5/11                 |  |
+| *Final*  5/16         |  |
 |                  |  |
 
 *Week 5*
