@@ -69,11 +69,11 @@ Participation
 Schedule
 --------
 
-| Date          |                                                                                                                                                                 |
-| ------------- |:---------------------------------------------------------------------------------------------------------------------------------------------------------------:|
-|*Week 1*       | Course Introduction /Overview of Syllabus Introductions (Instructor-Students), Online Research/Tutorials/3D additivism Resources/screen work GitHub Registration|
-|               |                                                                                                                                                                 |
-|*Week 2*       |                                                                                                                                                                 |
+| Date             |                                                                                                                                                                 |
+| ---------------- |:---------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+|*Week 1* 01/26    | Course Introduction /Overview of Syllabus Introductions (Instructor-Students), Online Research/Tutorials/3D additivism Resources/screen work GitHub Registration|
+|         01/31    |                                                                                                                                                                 |
+|*Week 2*          |                                                                                                                                                                 |
 
 
 *Week 1*
