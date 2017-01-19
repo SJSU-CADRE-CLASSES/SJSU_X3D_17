@@ -9,7 +9,7 @@ Instructor: Andrew Blanton
 Office: Art 311
 Email: Andrew.blanton@sjsu.edu
 Office Hours: T and TR 11-12
-Class Day/Time: T TR 3:00-5:50
+Class Day/Time: T TR 12:00-2:50
 Class Website: https://github.com/ablanton/SJSU_X3D_17
 
 [GreenSheet](https://github.com/ablanton/SJSU_X3D_17/blob/master/GREENSHEET.md) 
@@ -51,7 +51,7 @@ Grading Policy and Rubric
 Classroom Protocol
 ------------------
 
-######There are three main individual projects for this course (in addition to smaller assignments). On workshop days (see the course outline chart for the dates), students should come to class with their in-progress projects and hard-drives ready to work. If you have your own laptop and prefer to use that for your projects, bring it to class with you for the workshop days.
+######There are four main individual projects for this course (in addition to smaller assignments). On workshop days (see the course outline chart for the dates), students should come to class with their in-progress projects and hard-drives ready to work. If you have your own laptop and prefer to use that for your projects, bring it to class with you for the workshop days.
 
 ######Students must meet the deadlines for their projects. No late projects will be accepted. On Idea + concept days (see the course outline chart for the dates) students should bring notes, storyboards, sketches, charts, and material that they have used to do research on the specific topic and concept that you are interested in for their project.
 
@@ -70,24 +70,68 @@ Schedule
 --------
 
 *Week 1*
+Course Introduction /Overview of Syllabus 
+Introductions (Instructor-Students)
+Online Research/Tutorials/3D additivism Resources/screen work
+GitHub Registration
 
 *Week 2*
+Due:Reading 1
+Intro to Maya basics
+Introduction to experimental 3D methods in Digital Media Art context
+
+Screen related works (narrative + modeling + lighting)
+Work on first modeling assignment
 
 *Week 3*
+Due Assignment One: Intro to Maya Basics + Modeling Assignment 
+Introduction to Lighting, Introduction to rendering 
+Due: Digital Tutor Lighting + Rendering
+Class exercise/Maya Problem Solving
+
+Screen Inspiration Videos
+Ideas + Concepts for the first project (each student must come to class with sketches/storyboard/research notes/and concepts they are interested in)
 
 *Week 4*
+Introduction to texture + 2D vs. 3D 
+Workshop Day
+
+Workshop Day (working on your first project)
 
 *Week 5*
+First Project DUE
+Student Presentation of First Project
 
 *Week 6*
+Introduction to Keyframe Animation ; Timeline ; Graph Editor ; Playblast; Batch Rendering
+<Skill: Variable>
+Class Exercise
+
+Screen: Related Videos
+Introduction to Maya with Unity
 
 *Week 7*
+Ideas + Concepts for the second project (each team must come to class with sketches/research notes/and concepts they are interested in)
+Maya Problem Solving/Workshop Day
 
+Second Assignment Due
 *Week 8*
+Introduction 3D printing software
+Students find obj and stl’s and run test print on UP Printers
+Additive processes and subtractive processes.
+
+Screen: Related Videos
+Introduction 3D printing software
+Students find obj and stl’s and run test print on UP Printers
+Additive processes and subtractive processes.
 
 *Week 9*
+Workshop Day + Printing
 
 *Week 10*
+Second Project DUE
+Presentation Day ---> Student Presentation of Second Project
+
 
 *Week 11*
 

@@ -9,7 +9,7 @@ Instructor: Andrew Blanton
 Office: Art 311
 Email: Andrew.blanton@sjsu.edu
 Office Hours: T and TR 11-12
-Class Day/Time: T TR 3:00-5:50
+Class Day/Time: T TR 12:00-2:50
 Class Website: https://github.com/ablanton/SJSU_X3D_17
 
 [GreenSheet](https://github.com/ablanton/SJSU_X3D_17/blob/master/GREENSHEET.md)
