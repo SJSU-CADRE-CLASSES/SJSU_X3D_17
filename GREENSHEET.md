@@ -78,80 +78,29 @@ Schedule
 | 02/09               | Screen Inspiration Videos *** Ideas + Concepts for the first project (each student must come to class with sketches/storyboard/research notes/and concepts they are interested in) |
 | *Week 4* 02/14      | Introduction to texture + 2D vs. 3D *** Workshop Day |
 | 02/16               | Workshop Day (working on your first project) |
-| *Week 5* 02/21      |  |
-| 02/23               |  |
-| *Week 6* 02/28      |  |
-| 03/02               |  |
-| *Week 7* 03/07      |  |
-| 03/09               |  |
-| *Week 8* 03/14      |  |
-| 03/16               |  |
-| *Week 9* 03/21      |  |
-| 03/23               |  |
-| *Week 10* 03/28     |  |
-| 03/30               |  |
-| *Week 11* 04/04     |  |
-| 04/06               |  |
-| *Week 12* 04/11     |  |
-| 04/13               |  |
-| *Week 13* 04/18     |  |
-| 04/20               |  |
-| *Week 14* 04/25     |  |
-| 04/27               |  |
-| *Week 15* 05/02     |  |
-| 05/4                |  |
-| *Week 16* 05/09     |  |
-| 05/11               |  |
-| *Final*  05/16      |  |
+| *Week 5* 02/21      | First Project DUE *** Student Presentation of First Project |
+| 02/23               | Student Presentation of First Project |
+| *Week 6* 02/28      | Introduction to Keyframe Animation ; Timeline ; Graph Editor ; Playblast; Batch Rendering *** <Skill: Variable> *** Class Exercise |
+| 03/02               | Screen: Related Videos *** Introduction to Maya with Unity |
+| *Week 7* 03/07      | Ideas + Concepts for the second project (each team must come to class with sketches/research notes/and concepts they are interested in) *** Maya Problem Solving/Workshop Day |
+| 03/09               | Second Assignment Due |
+| *Week 8* 03/14      | Introduction 3D printing software *** Students find obj and stl’s and run test print on UP Printers *** Additive processes and subtractive processes. |
+| 03/16               | Screen: Related Videos *** Introduction 3D printing software *** Students find obj and stl’s and run test print on UP Printers |
+| *Week 9* 03/21      | Workshop Day + Printing |
+| 03/23               | Second Project DUE *** Presentation Day ---> Student Presentation of Second Project |
+| *Week 10* 03/28     | Spring Break |
+| 03/30               | Spring Break |
+| *Week 11* 04/04     | Due: Reading 2 http://science.jrank.org/pages/8120/Time-India.html *** Refresh of Time based animation (scene setup and batch render) *** <Skill: Variable> *** Organizing groups for third project |
+| 04/06               | Show and Tell: Different Maya Components  (Student Presentations) |
+| *Week 12* 04/11     | Due Ideas + Concepts for the final project (each student/team must come to class with sketches/research notes/and concepts they are interested in) |
+| 04/13               | Screen Inspiration Videos + discussion *** Work in class on projects |
+| *Week 13* 04/18     | Workshop day for third Project *** Introduction of Final |
+| 04/20               | Autodesk Fieldtrip!!! *** Meet at 3 pm at Pier 9 in San Francisco |
+| *Week 14* 04/25     | Third Project Due |
+| 04/27               | Third Project Due |
+| *Week 15* 05/02     | In class work on final ideation + prototyping exercise |
+| 05/4                | Rendering Week + Work Week For Final Project |
+| *Week 16* 05/09     | Presentation Day ---> Student Presentation of Final Project |
+| 05/11               | Presentation Day ---> Student Presentation of Final Project |
+| *Final*  05/16      | The final project + paper is due no later then May 16th |
 |                  |  |
-
-*Week 5*
-First Project DUE
-Student Presentation of First Project
-
-*Week 6*
-Introduction to Keyframe Animation ; Timeline ; Graph Editor ; Playblast; Batch Rendering
-<Skill: Variable>
-Class Exercise
-
-Screen: Related Videos
-Introduction to Maya with Unity
-
-*Week 7*
-Ideas + Concepts for the second project (each team must come to class with sketches/research notes/and concepts they are interested in)
-Maya Problem Solving/Workshop Day
-
-Second Assignment Due
-*Week 8*
-Introduction 3D printing software
-Students find obj and stl’s and run test print on UP Printers
-Additive processes and subtractive processes.
-
-Screen: Related Videos
-Introduction 3D printing software
-Students find obj and stl’s and run test print on UP Printers
-Additive processes and subtractive processes.
-
-*Week 9*
-Workshop Day + Printing
-
-*Week 10*
-Second Project DUE
-Presentation Day ---> Student Presentation of Second Project
-
-
-*Week 11*
-
-*Week 12*
-
-*Week 13*
-
-*Week 14*
-
-*Week 15*
-
-*Week 16*
-
-*Week 17*
-
-*Final*
