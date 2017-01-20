@@ -74,7 +74,7 @@ Schedule
 | *Week 1* 01/26      | Course Introduction/Overview of Syllabus *** Introductions (Instructor-Students) *** Online Research/Tutorials/GitHub Registration                                     |
 | *Week 2* 01/31      | **Due: Reading 1** *** Intro to Maya basics *** Introduction to experimental 3D methods in Digital Media Art context                                                        |
 | 02/02               | Screen related works (narrative + modeling + lighting) Work on first modeling assignment                                                                               |
-| *Week 3* 02/07      | **Due: Assignment One: Intro to Maya Basics + Modeling Assignment** *** Introduction to Lighting, Introduction to rendering *** Due: Digital Tutor Lighting + Rendering *** Class exercise/Maya Problem Solving |
+| *Week 3* 02/07      | **Due: Assignment One: Intro to Maya Basics + Modeling Assignment** *** Introduction to Lighting, Introduction to rendering *** Class exercise/Maya Problem Solving |
 | 02/09               | Screen Inspiration Videos *** Ideas + Concepts for the first project (each student must come to class with sketches/storyboard/research notes/and concepts they are interested in) |
 | *Week 4* 02/14      | Introduction to texture + 2D vs. 3D *** Workshop Day |
 | 02/16               | Workshop Day (working on your first project) |
@@ -82,7 +82,7 @@ Schedule
 | 02/23               | Student Presentation of First Project |
 | *Week 6* 02/28      | Introduction to Keyframe Animation ; Timeline ; Graph Editor ; Playblast; Batch Rendering *** <Skill: Variable> *** Class Exercise |
 | 03/02               | **Due: Ideas + Concepts for the second project (each team must come to class with sketches/research notes/and concepts they are interested in)** *** Screen: Related Videos *** Introduction to Maya with Unity |
-| *Week 7* 03/07      |  *** Maya Problem Solving/Workshop Day |
+| *Week 7* 03/07      | Maya Problem Solving/Workshop Day |
 | 03/09               | **Due: Reading 2** |
 | *Week 8* 03/14      | Introduction 3D printing software *** Students find obj and stl’s and run test print on UP Printers *** Additive processes and subtractive processes. |
 | 03/16               | Screen: Related Videos *** Introduction 3D printing software *** Students find obj and stl’s and run test print on UP Printers |
