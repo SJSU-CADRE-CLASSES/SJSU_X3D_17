@@ -72,35 +72,35 @@ Schedule
 | Class_Date          |                                                                                                                                                                        |
 | ------------------- |----------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | *Week 1* 01/26      | Course Introduction/Overview of Syllabus *** Introductions (Instructor-Students) *** Online Research/Tutorials/GitHub Registration                                     |
-| *Week 2* 01/31      | Due:Reading 1 *** Intro to Maya basics *** Introduction to experimental 3D methods in Digital Media Art context                                                        |
+| *Week 2* 01/31      | **Due: Reading 1** *** Intro to Maya basics *** Introduction to experimental 3D methods in Digital Media Art context                                                        |
 | 02/02               | Screen related works (narrative + modeling + lighting) Work on first modeling assignment                                                                               |
-| *Week 3* 02/07      | Due Assignment One: Intro to Maya Basics + Modeling Assignment *** Introduction to Lighting, Introduction to rendering *** Due: Digital Tutor Lighting + Rendering *** Class exercise/Maya Problem Solving |
+| *Week 3* 02/07      | **Due: Assignment One: Intro to Maya Basics + Modeling Assignment** *** Introduction to Lighting, Introduction to rendering *** Due: Digital Tutor Lighting + Rendering *** Class exercise/Maya Problem Solving |
 | 02/09               | Screen Inspiration Videos *** Ideas + Concepts for the first project (each student must come to class with sketches/storyboard/research notes/and concepts they are interested in) |
 | *Week 4* 02/14      | Introduction to texture + 2D vs. 3D *** Workshop Day |
 | 02/16               | Workshop Day (working on your first project) |
-| *Week 5* 02/21      | First Project DUE *** Student Presentation of First Project |
+| *Week 5* 02/21      | **Due: First Project** *** Student Presentation of First Project |
 | 02/23               | Student Presentation of First Project |
 | *Week 6* 02/28      | Introduction to Keyframe Animation ; Timeline ; Graph Editor ; Playblast; Batch Rendering *** <Skill: Variable> *** Class Exercise |
-| 03/02               | Screen: Related Videos *** Introduction to Maya with Unity |
-| *Week 7* 03/07      | Ideas + Concepts for the second project (each team must come to class with sketches/research notes/and concepts they are interested in) *** Maya Problem Solving/Workshop Day |
-| 03/09               | Second Assignment Due |
+| 03/02               | **Due: Ideas + Concepts for the second project (each team must come to class with sketches/research notes/and concepts they are interested in)** *** Screen: Related Videos *** Introduction to Maya with Unity |
+| *Week 7* 03/07      |  *** Maya Problem Solving/Workshop Day |
+| 03/09               | **Due: Reading 2** |
 | *Week 8* 03/14      | Introduction 3D printing software *** Students find obj and stl’s and run test print on UP Printers *** Additive processes and subtractive processes. |
 | 03/16               | Screen: Related Videos *** Introduction 3D printing software *** Students find obj and stl’s and run test print on UP Printers |
 | *Week 9* 03/21      | Workshop Day + Printing |
-| 03/23               | Second Project DUE *** Presentation Day ---> Student Presentation of Second Project |
+| 03/23               | **Due: Second Project** *** Presentation Day ---> Student Presentation of Second Project |
 | *Week 10* 03/28     | Spring Break |
 | 03/30               | Spring Break |
-| *Week 11* 04/04     | Due: Reading 2 http://science.jrank.org/pages/8120/Time-India.html *** Refresh of Time based animation (scene setup and batch render) *** <Skill: Variable> *** Organizing groups for third project |
+| *Week 11* 04/04     | **Due: Reading 3** *** Refresh of Time based animation (scene setup and batch render) *** <Skill: Variable> *** Organizing groups for third project |
 | 04/06               | Show and Tell: Different Maya Components  (Student Presentations) |
 | *Week 12* 04/11     | Due Ideas + Concepts for the final project (each student/team must come to class with sketches/research notes/and concepts they are interested in) |
 | 04/13               | Screen Inspiration Videos + discussion *** Work in class on projects |
-| *Week 13* 04/18     | Workshop day for third Project *** Introduction of Final |
-| 04/20               | Autodesk Fieldtrip!!! *** Meet at 3 pm at Pier 9 in San Francisco |
-| *Week 14* 04/25     | Third Project Due |
-| 04/27               | Third Project Due |
+| *Week 13* 04/18     |  **Third Project Due** |
+| 04/20               | Student Presentation of Third Project |
+| *Week 14* 04/25     | Introduction of Final *** In Class Exercise |
+| 04/27               | **Due: Reading 4** Autodesk Fieldtrip!!! *** Meet at 3 pm at Pier 9 in San Francisco |
 | *Week 15* 05/02     | In class work on final ideation + prototyping exercise |
 | 05/4                | Rendering Week + Work Week For Final Project |
-| *Week 16* 05/09     | Presentation Day ---> Student Presentation of Final Project |
+| *Week 16* 05/09     | **Final Project Due** *** Presentation Day ---> Student Presentation of Final Project |
 | 05/11               | Presentation Day ---> Student Presentation of Final Project |
 | *Final*  05/16      | The final project + paper is due no later then May 16th |
 |                  |  |
