@@ -80,7 +80,7 @@ Schedule
 | 02/16               | Workshop Day (working on your first project) |
 | *Week 5* 02/21      | **Due: First Project** *** Student Presentation of First Project |
 | 02/23               | Student Presentation of First Project |
-| *Week 6* 02/28      | Introduction to Keyframe Animation *** Timeline; Graph Editor; Playblast; Batch Rendering *** <Skill: Variable> *** Class Exercise |
+| *Week 6* 02/28      | Introduction to Keyframe Animation *** Timeline; Graph Editor; Playblast; Batch Rendering *** Skill: Variable *** Class Exercise |
 | 03/02               | **Due: Ideas + Concepts for the second project (each team must come to class with sketches/research notes/and concepts they are interested in)** *** Screen: Related Videos *** Introduction to Maya with Unity |
 | *Week 7* 03/07      | Maya Problem Solving/Workshop Day |
 | 03/09               | **Due: Reading 2** |
