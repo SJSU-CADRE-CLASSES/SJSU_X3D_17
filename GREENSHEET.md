@@ -92,13 +92,13 @@ Schedule
 | 03/30               | Spring Break |
 | *Week 11* 04/04     | **Due: Reading 3** *** Refresh of Time based animation (scene setup and batch render) *** <Skill: Variable> *** Organizing groups for third project |
 | 04/06               | Show and Tell: Different Maya Components  (Student Presentations) |
-| *Week 12* 04/11     | Due Ideas + Concepts for the final project (each student/team must come to class with sketches/research notes/and concepts they are interested in) |
+| *Week 12* 04/11     | In class work on Third Project + prototyping exercise |
 | 04/13               | Screen Inspiration Videos + discussion *** Work in class on projects |
 | *Week 13* 04/18     |  **Third Project Due** |
 | 04/20               | Student Presentation of Third Project |
-| *Week 14* 04/25     | Introduction of Final *** In Class Exercise |
-| 04/27               | **Due: Reading 4** Autodesk Fieldtrip!!! *** Meet at 3 pm at Pier 9 in San Francisco |
-| *Week 15* 05/02     | In class work on final ideation + prototyping exercise |
+| *Week 14* 04/25     | **Due: Reading 4** Introduction of Final *** In Class Exercise |
+| 04/27               | Autodesk Fieldtrip!!! *** Meet at 3 pm at Pier 9 in San Francisco |
+| *Week 15* 05/02     | **Due Ideas + Concepts for the final project** (each student/team must come to class with sketches/research notes/and concepts they are interested in) |
 | 05/4                | Rendering Week + Work Week For Final Project |
 | *Week 16* 05/09     | **Final Project Due** *** Presentation Day ---> Student Presentation of Final Project |
 | 05/11               | Presentation Day ---> Student Presentation of Final Project |
