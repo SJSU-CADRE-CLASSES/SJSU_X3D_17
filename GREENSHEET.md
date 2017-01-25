@@ -97,8 +97,8 @@ Schedule
 | *Week 13* 04/18     |  **Third Project Due** |
 | 04/20               | Student Presentation of Third Project |
 | *Week 14* 04/25     | **Due: Reading 4** Introduction of Final *** In Class Exercise |
-| 04/27               | Autodesk Fieldtrip!!! *** Meet at 3 pm at Pier 9 in San Francisco |
-| *Week 15* 05/02     | **Due Ideas + Concepts for the final project** (each student/team must come to class with sketches/research notes/and concepts they are interested in) |
+| 04/27               | Autodesk Fieldtrip!!! *** Meet at 3 pm at Pier 9 in San Francisco **Due Ideas + Concepts for the final project** (each student/team must post to git with sketches/research notes/and concepts they are interested in) |
+| *Week 15* 05/02     | Rendering Week + Work Week For Final Project |
 | 05/4                | Rendering Week + Work Week For Final Project |
 | *Week 16* 05/09     | **Final Project Due** *** Presentation Day ---> Student Presentation of Final Project |
 | 05/11               | Presentation Day ---> Student Presentation of Final Project |
