@@ -1,3 +1,3 @@
-** Reading 1 **
+**Reading 1**
 
 Test with formatting
