@@ -5,7 +5,7 @@ Hi All And Welcome! For Tuesday please read the article located [here](http://ww
 
 It's always a good idea to cite outside sources in Chicago format([1](http://www.chicagomanualofstyle.org/tools_citationguide.html)) and try to cite specific artist or projects that you are interested in. I also encourage you to incorporate images and gif's to further bolster your arguments.
 
-![gif](http://giphy.com/gifs/video-art-synthesis-voidpalace-26ufbzjayTN1ukFz2)
+![gif](http://i.giphy.com/26ufbzjayTN1ukFz2.gif)
 
 1. "Chicago Manual of Style," Accessed January 26, 2017, [http://www.chicagomanualofstyle.org/tools_citationguide.html](http://www.chicagomanualofstyle.org/tools_citationguide.html)
 ## This is some writing on the topic
