@@ -7,16 +7,10 @@ In your response feel free to discuss artist that you are interested in([2](http
 
 It's always a good idea to cite sources in Chicago format([1](http://www.chicagomanualofstyle.org/tools_citationguide.html)) and try to cite specific artist or projects that you are interested in. I also encourage you to incorporate images and gif's to further bolster your arguments.
 
-![gif](http://giphy.com/gifs/video-art-synthesis-voidpalace-26ufbzjayTN1ukFz2)
+![gif](http://i.giphy.com/26ufbzjayTN1ukFz2.gif)
 
 1. "Chicago Manual of Style," Accessed January 26, 2017, [http://www.chicagomanualofstyle.org/tools_citationguide.html](http://www.chicagomanualofstyle.org/tools_citationguide.html)
 2. Bader, C., Patrick, W., Kolb, D., Hays, S., Keating, S., Sharma, S., Dikovsky, D., Belocon, B., Weaver, J., Silver, P., and Oxman, N., "Grown, Printed, and Biologically Augmented," Journal of 3D Printing and Additive Manufacturing, Volume 3, Number 2, 2016, Pp. 79-89
 3. Dunne, Anthony, and Fiona Raby. Speculative everything: design, fiction, and social dreaming. Cambridge, MA: The MIT Press, 2013.
 4. "No Donor Required 5 Body Parts You Can Make With 3D Printers," Accessed January 26, 2017, [http://www.forbes.com/sites/robertszczerba/2015/06/17/no-donor-required-5-body-parts-you-can-make-with-3-d-printers-2/#4d1189c14a3b](http://www.forbes.com/sites/robertszczerba/2015/06/17/no-donor-required-5-body-parts-you-can-make-with-3-d-printers-2/#4d1189c14a3b)
 5. "3D-print your face in chocolate for that special Valentine's Day gift," Accessed January 26, 2017, The Guardian.
-
-
-![gif](http://i.giphy.com/26ufbzjayTN1ukFz2.gif)
-
-1. "Chicago Manual of Style," Accessed January 26, 2017, [http://www.chicagomanualofstyle.org/tools_citationguide.html](http://www.chicagomanualofstyle.org/tools_citationguide.html)
-## This is some writing on the topic
