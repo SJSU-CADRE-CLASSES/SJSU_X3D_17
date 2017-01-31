@@ -1,1 +1,6 @@
-THIS IS A BIG BOOTY CALL
+Reading 01
+The article, Under Fire: 3D Animation Pedagogy and Industry Complicity in New Media Education, portrays Claudia Hart’s stance on how the technology focuses more on specializations rather than the experimental art. Hart proves her point further on how schools offer classes that are “company oriented”; meaning the skills will be used to further benefit industries rather than being used as an artistic medium. Hart breaks the meta by teaching her students to use Virtual 3D to experiment around with aesthetics, and create virtual installations.
+
+I believe that Hart has a solid stance on her dismay the 3D technology usage; consumer oriented media. However, I on the fence of whether 3D technology should be practical, or new media art. Being in Digital Media major, I think it is our responsibility to merge practicality, aesthetics, and messages together because even in actual practice, all three are present. But we choose define one, or two of the three factors. For example, I like Blizzard’s Overwatch character designs; each one of them have specific character aesthetics, gameplay mechanics, and their lore. Most modern games themselves are created in the virtual 3D space.
+
+As for working with Virtual 3D, I will have the flexibility to experiment around and learn the tool. The path I choose will vary amongst whether people need consumer product, or “art”; it is something I have to learn, and master the tool before deciding ahead of time. For the time being.
