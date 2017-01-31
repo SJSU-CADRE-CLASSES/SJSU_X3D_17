@@ -1,1 +1,6 @@
-ayyy
+
+The article is thought provoking. It points out a trend in video games and how women are objectified. Claudia Hart who was a 3D artist felt that women should not be captured in such a way. Many video games depict violent and pornographic suggestions towards women. Hart wanted to educate that women can be captured in a sensual and romantic way despite posed in nude. 
+
+For me, I am interested in working in 3D modeling because I have an interest in the gaming industry. I find that 3D modeling can apply to many art fields. It is useful to sculpt a 3D object as reference or making prototypes. In experimentation, I want to learn to use 3D modeling in mixed media. One of my favorite 3D artist is Swedish artist, Pandagunda. He mixes 3D modeling with portraits. His work was featured in many music videos and award shows like the VMAs. I am interested in exploring space outside of 2D constraint and learning new programs is a good way to step out of my comfort zone.
+
+I find 3D printing to be very practical for interior design and architecture. I know architects take time to craft a prototype for a project or building. So 3D printing would make the process simpler. For interior design, I have seen innovative ways 3D printing is used. Clay can be as filament for printing ceramics. Complicated patterns and shapes can be accomplished easily with 3D printing.
