@@ -5,5 +5,3 @@ I agreed with Hart and what she is saying in this article. The purpose of higher
 
 My interest in 3d correlates to the desires of being involve in the process of creating a virtual reality. There are so many applications for VR such as military, education, healthcare, entertainment, fashion, engineering, sports, film, etc. 
 
-blending both environments so that they are indistinguishable for the purpose of entertainment. This idea can be mostly achieved through virtual reality headsets.  
-
