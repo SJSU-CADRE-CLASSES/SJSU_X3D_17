@@ -6,12 +6,12 @@ Surprisingly, I find myself more attracted to the “old” styles of art (film 
 
 I want to study virtual 3d because I want to explore a new way of looking at the world around me. By creating objects with depth and that are sometimes tangible can change the way I see objects around me. Many set pieces for films are created using 3d modeling and videogames are starting to become popular to use on 3d headsets. The hobbit, for example, uses 3d modeling to create amazing designs and set pieces (Diba 2015). Seeing this kind of art inspires me to create something with my hands or with a computer. 
 
- !(http://www.adweek.com/files/adfreak/images/2/Tattoo%20QR%202.jpg) 
+ ![Alt](http://www.adweek.com/files/adfreak/images/2/Tattoo%20QR%202.jpg) 
 (Nudd 2013).
 
 
 
-!(http://www.zbrushcentral.com/attachment.php?attachmentid=354393) 
+![Alt](http://www.zbrushcentral.com/attachment.php?attachmentid=354393) 
 (Diba 2015).
 
 
