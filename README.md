@@ -25,12 +25,11 @@ Class Website: https://github.com/ablanton/SJSU_X3D_17
 ###### [Alan Shia Project 1](https://github.com/ablanton/SJSU_X3D_17/blob/master/Project_One/AlanShiaProjectOne.pdf)
 ###### [Tony Luong Project 1](https://github.com/ablanton/SJSU_X3D_17/blob/master/Project_One/TonyLuongProjectOne.pdf)
 
-<<<<<<< Updated upstream
-=======
->>>>>>> origin/master
->>>>>>> Stashed changes
+
 
 ###### [Kong Vue Project 1](https://github.com/ablanton/SJSU_X3D_17/blob/master/Project_One/KongProject1.pdf)
+###### [Josh Nolan Project 1](https://github.com/ablanton/SJSU_X3D_17/blob/master/Project_One/JoshNolan_Gallery_New.pdf)
+
 
 ###### [Anthony Flores-Rodriguez Project 1](https://github.com/ablanton/SJSU_X3D_17/blob/master/Project_One/AnthonyFloresProjectOne.pdf)
 
