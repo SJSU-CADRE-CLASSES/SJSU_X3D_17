@@ -34,6 +34,8 @@ Class Website: https://github.com/ablanton/SJSU_X3D_17
 ###### [Anthony Flores-Rodriguez Project 1](https://github.com/ablanton/SJSU_X3D_17/blob/master/Project_One/AnthonyFloresProjectOne.pdf)
 
 
+###### [Jay Quintos Project 1](https://github.com/ablanton/SJSU_X3D_17/blob/master/Project_One/JayQuintosProjectOne.pdf)
+
 ###### Project Two
 ------------------
 
