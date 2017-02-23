@@ -36,7 +36,7 @@ Class Website: https://github.com/ablanton/SJSU_X3D_17
 
 =======
 ###### [Buse Ur Project 1](https://github.com/ablanton/SJSU_X3D_17/blob/master/Project_One/Project1_UrBuse1.pdf)
->>>>>>> Stashed changes
+
 
 ###### [Jay Quintos Project 1](https://github.com/ablanton/SJSU_X3D_17/blob/master/Project_One/JayQuintosProjectOne.pdf)
 
