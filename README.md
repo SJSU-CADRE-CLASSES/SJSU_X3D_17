@@ -26,6 +26,11 @@ Class Website: https://github.com/ablanton/SJSU_X3D_17
 ###### [Josh Nolan Project 1](https://github.com/ablanton/SJSU_X3D_17/blob/master/Project_One/JoshNolan_Gallery_New.pdf)
 ###### [Anthony Flores-Rodriguez Project 1](https://github.com/ablanton/SJSU_X3D_17/blob/master/Project_One/AnthonyFloresProjectOne.pdf)
 ###### [Buse Ur Project 1](https://github.com/ablanton/SJSU_X3D_17/blob/master/Project_One/Project1_UrBuse1.pdf)
+<<<<<<< HEAD
+=======
+
+
+>>>>>>> origin/master
 ###### [Jay Quintos Project 1](https://github.com/ablanton/SJSU_X3D_17/blob/master/Project_One/JayQuintosProjectOne.pdf)
 ###### [Shawn Jones-Trammell Project 1](https://github.com/ablanton/SJSU_X3D_17/blob/master/Project_One/ShawnJonesProject1.pdf)
 ###### [Leily Khatibi Project 1](https://github.com/ablanton/SJSU_X3D_17/blob/master/Project_One/LeilyKhatibiProjectOne.md)
