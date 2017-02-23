@@ -20,6 +20,8 @@ Class Website: https://github.com/ablanton/SJSU_X3D_17
 ------------------
 ###### [Andrew Blanton Project 1](https://github.com/ablanton/SJSU_X3D_17/blob/master/Project_One/SJSU_X3D_Project_1.pdf)
 ###### [Alan Shia Project 1](https://github.com/ablanton/SJSU_X3D_17/blob/master/Project_One/AlanShiaProjectOne.pdf)
+###### [Tony Luong Project 1](https://github.com/ablanton/SJSU_X3D_17/blob/master/Project_One/TonyLuongProjectOne.pdf)
+
 
 ###### Project Two
 ------------------
