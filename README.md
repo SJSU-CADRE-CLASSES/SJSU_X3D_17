@@ -30,7 +30,7 @@ Class Website: https://github.com/ablanton/SJSU_X3D_17
 ###### [Shawn Jones-Trammell Project 1](https://github.com/ablanton/SJSU_X3D_17/blob/master/Project_One/ShawnJonesProject1.pdf)
 ###### [Leily Khatibi Project 1](https://github.com/ablanton/SJSU_X3D_17/blob/master/Project_One/LeilyKhatibiProjectOne.md)
 ###### [Tom Lin Project 1](https://github.com/ablanton/SJSU_X3D_17/blob/master/Project_One/tlin_proj01_hands-of-fare)
-
+###### [Kathy Nguyen Project 1](https://github.com/ablanton/SJSU_X3D_17/blob/master/Project_One/project1kathynguyen.pdf)
 
 
 ###### Project Two
