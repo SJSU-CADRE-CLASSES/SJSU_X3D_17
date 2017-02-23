@@ -30,6 +30,8 @@ Class Website: https://github.com/ablanton/SJSU_X3D_17
 >>>>>>> origin/master
 >>>>>>> Stashed changes
 
+###### [Kong Vue Project 1](https://github.com/ablanton/SJSU_X3D_17/blob/master/Project_One/KongProject1.pdf)
+
 ###### Project Two
 ------------------
 
