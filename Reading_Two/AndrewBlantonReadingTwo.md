@@ -1,5 +1,5 @@
-First Reading Assignment
-------------------------
+Second Reading Assignment
+-------------------------
 
 Hi all and Welcome! For Thursday please watch the talk located [here](http://bennopremselalezing2015.hetnieuweinstituut.nl/) and push your response to the git repo. Please write a paragraph to a page (200-600 words) discussing what you think of this talk as well as some of your thoughts about the ideas in the talk.
 
