@@ -84,7 +84,7 @@ Schedule
 | 03/02               | **Work In Class on Concepts for the second project** *** Screen: Related Videos *** |
 | *Week 7* 03/07      | Maya Problem Solving/Workshop Day |
 | 03/09               | **Due: Reading 2** |
-| *Week 8* 03/14      | Introduction 3D printing software *** Students find obj and stl’s and run test print on UP Printers *** Additive processes and subtractive processes. |
+| *Week 8* 03/14      | **Reading 2 Discussion** Introduction 3D printing software *** Students find obj and stl’s and run test print on UP Printers *** Additive processes and subtractive processes. |
 | 03/16               | Screen: Related Videos *** Introduction 3D printing software *** Students find obj and stl’s and run test print on UP Printers |
 | *Week 9* 03/21      | Workshop Day + Printing |
 | 03/23               | **Due: Second Project** *** Presentation Day ---> Student Presentation of Second Project |
