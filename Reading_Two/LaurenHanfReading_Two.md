@@ -1,0 +1,64 @@
+Benjamin Bratton’s talk is thick with ideas and serves as a springboard for topics to research. Like Bratton, I have given much thought about how technology will shape the future. Humans and technology are co-evolving. Bratton argues that while we live in the anthropocene, we must move past a human-centric worldview to design for the future. I, too, wonder where humans will find ourselves in this relationship with technology in my lifetime.
+
+Bratton’s talk briefly mention Deep Dream in the context of apophenia, but I find that Deep Dream serves as a great coffee table piece for the emerging field of machine learning, a technology that I foresee rapidly growing in significance. I question what effect this technology will have on the domain of the artist, as well as what kind of art and design related careers will available upon my graduation from school. 
+
+The concept of machine learning may not be new, but it is a fairly recent trend that that technology is becoming viable and commercially available.  “Designed to be analogous to how a human brain works, neural networks themselves were first described in the 1930s. But it’s only in the last three or four years that computers have become powerful enough to use them effectively.” (Guardian 2016) Tech giant Google is doubling down on machine learning as key technology. The company is busy researching machine intelligence, natural language processing, and machine perception with the goal of building systems that can think, listen, and see.
+
+According to Tensorflow.org (an open source project originally developed by researchers and engineers working on the Google Brain Team), “Our brains make vision seem easy. It doesn't take any effort for humans to tell apart a lion and a jaguar, read a sign, or recognize a human's face. But these are actually hard problems to solve with a computer: they only seem easy because our brains are incredibly good at understanding images. ...we've found that a kind of model called a deep convolutional neural network can achieve reasonable performance on hard visual recognition tasks -- matching or exceeding human performance in some domains.”
+
+If this technology seems far removed from your life, it is not. Instances of machine learning that you may already have been exposed to include Google’s self-driving car, recommendations from Amazon and Netflix, and credit card fraud detection. In theory, with machine learning computers will be able to learn without being programmed to perform specific tasks. This raises many questions about what kind of work will be done by machines in the near future. Where will this ability to take us as a society? I wonder how the developments in this field will this impact my career as a designer and artist. Or will machine learning become yet another tool for artists to work with?
+
+I see the firsthand symptoms of machine learning’s impact on the art world. The effects are already trickling down to consumer technology. On my phone the Prisma app takes photographs and turns them into a pastiche of an existing piece of art. This type of style transfer is possible when the computer has been taught two skills: (1) to recognize the content of an image and (2) to recognize the style of an image. 
+
+*(1)The content of the image is: what objects are present in this image (person, face, dog, eyes, etc.) and their relationships in space. (Ivanov 2017)* 
+
+Just as the Deep Dream computer is designed to find dogs in large quantities of data, computers are capable of finding, recognizing, and creating a variety of forms. The ability to perform this task is one of the major steps or art creation. According to art instructor Sheldon Borenstein drawing is a process can be broken down into the steps of gesture, construction, anatomy, and technique. “I simply teach the basic skills…” says Borenstein. “We call it GCAT for short, but it’s the same group of skills that have been taught for centuries.” Deep Dream’s skills described above are pieces of the construction step. To master the construction skill of drawing one must be able to recognize form, find edges and planes, understand space, translate between 2 dimensional and 3 dimensional space, and build with simple shapes. While Deep Dream was not designed from an art perspective, it is clear how the software mimics these skills. 
+
+*(2) The style of an painting is: the way the painter used brush strokes; how these strokes form objects; texture of objects; color palette used. (Ivanov 2017)* 
+
+As an example of the intersection of machine learning and style, Prisma can take a photo from my phone and reimagine it in the style of Hokusai’s ‘The Great Wave off Kanagawa’. Prisma has been trained to apply a multitude of artists’ styles: Kandinsky, Much, Miyazaki, Mondrian, Chagall. According to Sheldon’s breakdown of the drawing process the application of style would be labeled “technique”. Technique is the visual frosting that goes on top of form. Technique is related to the medium the art is created in. Watercolor, oil paints, graphite pencil, or pastel would provide very different appearances to the same content. Different artists may work with the same medium in different ways ultimately creating different styles. For example Rembrandt and Van Gogh both painted with oils, but we would consider their works to have different styles. The idea of separating technique from construction is evident in digital design as well. CSS and HTML break up online content creation into the two categories of construction and technique; HTML builds the form while CSS gives the same form different aesthetics.
+
+If one assumes that that creating art requires the skills of gesture, construction, anatomy, and technique, it becomes apparent that machine learning has made significant inroads in two of these areas. If neural networks have been trained to simulate the skills of construction and technique it seems quite reasonable that they could also be trained to recognize and work with gesture and anatomy. It is quite likely that anatomy is already being implemented for use in facial recognition. The current generation of machine learning was designed by engineers with primarily non-artistic goals, but if artists are intentionally incorporated in designing the emerging technology I suspect the field will grow in surprising ways. 
+
+Google is already trying to round out their machine learning research by courting artists via project Magenta. Magenta aims to build a community of artists and provide them with the tools to help discover what applications machine learning has for creating compelling artistic content and music. “We don’t know what artists and musicians will do with these new tools, but we’re excited to find out. Look at the history of creative tools. Daguerre and later Eastman didn’t imagine what Annie Leibovitz or Richard Avedon would accomplish in photography. Surely Rickenbacker and Gibson didn’t have Jimi Hendrix or St. Vincent in mind. We believe that the models that have worked so well in speech recognition, translation and image annotation will seed an exciting new crop of tools for art and music creation.” (Magenta, 2016) Magenta asks artists: “What do art and technology have to do with each other? What is machine intelligence, and what does ‘machine intelligence art’ look, sound and feel like?” Google’s Cultural Institute, a digital art gallery, explores “the applications and implications of Machine Learning within a cultural context”. “Our aim was to start a conversation with the cultural sector and encourage the sharing of ideas, exploring together what smart computer systems can do in the hands of artists, curators and how they can help people connect with culture in new ways. ” (The Lab at the Cultural Institute 2017) Google seems to take the position that machine learning is just another tool for artists, but will this stance change in the future? Will machines replace artists?
+
+From what I have seen I think machine learning makes computers able to mimic a variety of human skills, even if they do not come to the results in the same way. I think neural networks could be trained on all aspects of GCAT, giving computers the ability to break down and rebuild imagery using the the art skills that fine artists have been traditionally taught. We can all agree that a computer is not equivalent to a human; however, while machine learning may not have a human element to power the creativity I suspect this could be overcome by the sheer amount of output a computer is capable of. 
+
+A computer can easily create many art pieces and then the best pieces may be chosen. This ideation technique is employed by all artists and designers, especially in the early conceptual phases. Notably, photographers rely on taking many more shots than needed because only a few of the best shots will be chosen to share. While a computer may churn out a lot of ideas that may not appeal to humans, there will undoubtedly be a few gems in the pile of digital creations. Data is in some ways a cheap medium. The 1’s and 0’s are infinitely recyclable, so there is little waste in mass ideation. Until a computer is able to recognize the best pieces or have a consistently high quality output, the real cost is in the human curation of the computer’s output.
+
+I believe the current field of machine learning requires artists to succeed. Where do human artists fit in this workflow? They will be needed to feed the neural networks, act as art directors, sift through the machines’ outputs, act as editors, and be project visionaries. Artists will likely need to work closely with programmers, and they may be even more valuable if they have a background in computer science themselves. Every job and product needs art and design. I see the need for creative work as a constant, something that will not change, regardless of if a human or a computer is doing the job.
+
+Long-term, the technology of machine learning raises questions that I struggle to answer. Will artists be training our computer replacements? Or will the artistic oversight be essential to bringing the human element to computer created design, something a computer will never be able to replicate? Will the automation of production jobs leave more money and time for art and design related fields? How will technology affect the consumer vs. creator paradigm? Is it possible humans will forget art skills if we no longer need to use them?
+
+While art skills may go the way of cursive writing, I think the human desire to create will persevere. 
+
+
+
+
+
+Google Arts & Culture. Accessed March 14, 2017. https://www.google.com/culturalinstitute/beta/u/0/.
+
+The Lab at the Cultural Institute, a crossroads of ideas, art and technology. Accessed March 14, 2017. https://www.google.com/culturalinstitute/thelab/#news.
+
+"Art Academy cultivates all talent." Thousand Oaks Acorn. Accessed March 14, 2017. http://www.toacorn.com/news/2005-11-10/On_The_Town/100.html.
+
+Dennis, Natalie. "Machine learning turns photos into works of art." Inside Google. October 26, 2016. Accessed March 14, 2017. https://blog.google/topics/inside-google/machine-learning-turns-photos-works-art/.
+
+Gayford, Martin. "Robot Art Raises Questions about Human Creativity." MIT Technology Review. November 28, 2016. Accessed March 14, 2017. https://www.technologyreview.com/s/600762/robot-art-raises-questions-about-human-creativity/.
+
+Hern, Alex. "Google says machine learning is the future. So I tried it myself." The Guardian. June 28, 2016. Accessed March 14, 2017. https://www.theguardian.com/technology/2016/jun/28/google-says-machine-learning-is-the-future-so-i-tried-it-myself.
+
+"Image Recognition." TensorFlow. Accessed March 14, 2017. https://www.tensorflow.org/tutorials/image_recognition.
+
+Ivanov, Slav. "Picking an optimizer for Style Transfer." Medium. March 09, 2017. Accessed March 14, 2017. https://medium.com/slavv/picking-an-optimizer-for-style-transfer-86e7b8cba84b#.hmwqo1ral.
+
+"Lecture: On A.I. and Cities: Platform Design, Algorithmic Perception, and Urban Geopolitics." Benno Premsela Lezing 2015. February 01, 2016. Accessed March 14, 2017. http://bennopremselalezing2015.hetnieuweinstituut.nl/en/lecture-ai-and-cities-platform-design-algorithmic-perception-and-urban-geopolitics.
+
+"List of Prisma (app) filters." Wikipedia. December 07, 2016. Accessed March 14, 2017. https://en.wikipedia.org/wiki/List_of_Prisma_(app)_filters.
+
+"Machine Learning: What it is and why it matters." SAS. Accessed March 14, 2017. https://www.sas.com/en_us/insights/analytics/machine-learning.html.
+"Supercharging Style Transfer." Google Research Blog. October 26, 2016. Accessed March 14, 2017. https://research.googleblog.com/2016/10/supercharging-style-transfer.html.
+
+"Welcome to Magenta!" Magenta. June 01, 2016. Accessed March 14, 2017. https://magenta.tensorflow.org/welcome-to-magenta.
+
+
