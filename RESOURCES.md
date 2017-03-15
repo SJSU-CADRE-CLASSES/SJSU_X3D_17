@@ -47,7 +47,8 @@ Resources
 | [newmedia.rocks](http://newmedia.rocks/notes/realtime.html)
 
 ### Links
-3/9
+## 3/9
+------
 * https://vimeo.com/176566252
 * http://artfcity.com/
 * https://www.google.com/search?q=claudia+hart&source=lnms&tbm=isch&sa=X&ved=0ahUKEwj9oY7BoMrSAhVC1WMKHS5tDBoQ_AUICCgD&biw=1140&bih=525#imgrc=NcJByRej6_mJUM:
@@ -61,7 +62,8 @@ Resources
 * https://www.youtube.com/watch?v=hx5Cu7U-Fkg
 * http://rhizome.org/
 * https://www.google.com/search?q=mark+klink&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjOje7Hx8rSAhURzWMKHViJDCMQ_AUICCgB&biw=1764&bih=986&dpr=2#imgrc=_kn0TFmlWs8IbM:
-3/14
+## 3/14
+-------
 * https://www.youtube.com/watch?v=LB7xWziKPNs
 * http://fffff.at/free-universal-construction-kit/
 * http://www.meshmixer.com/
