@@ -30,7 +30,7 @@ I believe the current field of machine learning requires artists to succeed. Whe
 
 Long-term, the technology of machine learning raises questions that I struggle to answer. Will artists be training our computer replacements? Or will the artistic oversight be essential to bringing the human element to computer created design, something a computer will never be able to replicate? Will the automation of production jobs leave more money and time for art and design related fields? How will technology affect the consumer vs. creator paradigm? Is it possible humans will forget art skills if we no longer need to use them?
 
-While art skills may go the way of cursive writing, I think the human desire to create will persevere. 
+While certain art skills could go the way of cursive writing, I think the human desire to create will persevere. 
 
 
 ***
