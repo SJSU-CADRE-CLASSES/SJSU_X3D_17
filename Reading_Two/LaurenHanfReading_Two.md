@@ -8,7 +8,7 @@ According to Tensorflow.org (an open source project originally developed by rese
 
 If this technology seems far removed from your life, it is not. Instances of machine learning that you may already have been exposed to include Google’s self-driving car, recommendations from Amazon and Netflix, and credit card fraud detection. In theory, with machine learning computers will be able to learn without being programmed to perform specific tasks. This raises many questions about what kind of work will be done by machines in the near future. Where will this ability to take us as a society? I wonder how the developments in this field will this impact my career as a designer and artist. Or will machine learning become yet another tool for artists to work with?
 
-I see the firsthand symptoms of machine learning’s impact on the art world. The effects are already trickling down to consumer technology. On my phone the Prisma app takes photographs and turns them into a pastiche of an existing piece of art. This type of style transfer is possible when the computer has been taught two skills: (1) to recognize the content of an image and (2) to recognize the style of an image. 
+I see the firsthand symptoms of machine learning’s impact on the art world. The effects are already trickling down to consumer technology. On my phone the Prisma app takes photographs and turns them into a pastiche of an existing piece of art. This type of style transfer is possible when the computer has been taught two skills: *(1) to recognize the content of an image* and *(2) to recognize the style of an image*. 
 
 *(1)The content of the image is: what objects are present in this image (person, face, dog, eyes, etc.) and their relationships in space. (Ivanov 2017)* 
 
