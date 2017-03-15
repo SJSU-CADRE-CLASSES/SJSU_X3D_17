@@ -33,7 +33,7 @@ Long-term, the technology of machine learning raises questions that I struggle t
 While art skills may go the way of cursive writing, I think the human desire to create will persevere. 
 
 
-
+***
 
 
 1. Google Arts & Culture. Accessed March 14, 2017. https://www.google.com/culturalinstitute/beta/u/0/.
