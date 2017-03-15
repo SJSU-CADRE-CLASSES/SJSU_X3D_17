@@ -36,29 +36,29 @@ While art skills may go the way of cursive writing, I think the human desire to 
 
 
 
-Google Arts & Culture. Accessed March 14, 2017. https://www.google.com/culturalinstitute/beta/u/0/.
+1. Google Arts & Culture. Accessed March 14, 2017. https://www.google.com/culturalinstitute/beta/u/0/.
 
-The Lab at the Cultural Institute, a crossroads of ideas, art and technology. Accessed March 14, 2017. https://www.google.com/culturalinstitute/thelab/#news.
+2. The Lab at the Cultural Institute, a crossroads of ideas, art and technology. Accessed March 14, 2017. https://www.google.com/culturalinstitute/thelab/#news.
 
-"Art Academy cultivates all talent." Thousand Oaks Acorn. Accessed March 14, 2017. http://www.toacorn.com/news/2005-11-10/On_The_Town/100.html.
+3. "Art Academy cultivates all talent." Thousand Oaks Acorn. Accessed March 14, 2017. http://www.toacorn.com/news/2005-11-10/On_The_Town/100.html.
 
-Dennis, Natalie. "Machine learning turns photos into works of art." Inside Google. October 26, 2016. Accessed March 14, 2017. https://blog.google/topics/inside-google/machine-learning-turns-photos-works-art/.
+4. Dennis, Natalie. "Machine learning turns photos into works of art." Inside Google. October 26, 2016. Accessed March 14, 2017. https://blog.google/topics/inside-google/machine-learning-turns-photos-works-art/.
 
-Gayford, Martin. "Robot Art Raises Questions about Human Creativity." MIT Technology Review. November 28, 2016. Accessed March 14, 2017. https://www.technologyreview.com/s/600762/robot-art-raises-questions-about-human-creativity/.
+5. Gayford, Martin. "Robot Art Raises Questions about Human Creativity." MIT Technology Review. November 28, 2016. Accessed March 14, 2017. https://www.technologyreview.com/s/600762/robot-art-raises-questions-about-human-creativity/.
 
-Hern, Alex. "Google says machine learning is the future. So I tried it myself." The Guardian. June 28, 2016. Accessed March 14, 2017. https://www.theguardian.com/technology/2016/jun/28/google-says-machine-learning-is-the-future-so-i-tried-it-myself.
+6. Hern, Alex. "Google says machine learning is the future. So I tried it myself." The Guardian. June 28, 2016. Accessed March 14, 2017. https://www.theguardian.com/technology/2016/jun/28/google-says-machine-learning-is-the-future-so-i-tried-it-myself.
 
-"Image Recognition." TensorFlow. Accessed March 14, 2017. https://www.tensorflow.org/tutorials/image_recognition.
+7. "Image Recognition." TensorFlow. Accessed March 14, 2017. https://www.tensorflow.org/tutorials/image_recognition.
 
-Ivanov, Slav. "Picking an optimizer for Style Transfer." Medium. March 09, 2017. Accessed March 14, 2017. https://medium.com/slavv/picking-an-optimizer-for-style-transfer-86e7b8cba84b#.hmwqo1ral.
+8. Ivanov, Slav. "Picking an optimizer for Style Transfer." Medium. March 09, 2017. Accessed March 14, 2017. https://medium.com/slavv/picking-an-optimizer-for-style-transfer-86e7b8cba84b#.hmwqo1ral.
 
-"Lecture: On A.I. and Cities: Platform Design, Algorithmic Perception, and Urban Geopolitics." Benno Premsela Lezing 2015. February 01, 2016. Accessed March 14, 2017. http://bennopremselalezing2015.hetnieuweinstituut.nl/en/lecture-ai-and-cities-platform-design-algorithmic-perception-and-urban-geopolitics.
+9. "Lecture: On A.I. and Cities: Platform Design, Algorithmic Perception, and Urban Geopolitics." Benno Premsela Lezing 2015. February 01, 2016. Accessed March 14, 2017. http://bennopremselalezing2015.hetnieuweinstituut.nl/en/lecture-ai-and-cities-platform-design-algorithmic-perception-and-urban-geopolitics.
 
-"List of Prisma (app) filters." Wikipedia. December 07, 2016. Accessed March 14, 2017. https://en.wikipedia.org/wiki/List_of_Prisma_(app)_filters.
+10. "List of Prisma (app) filters." Wikipedia. December 07, 2016. Accessed March 14, 2017. https://en.wikipedia.org/wiki/List_of_Prisma_(app)_filters.
 
-"Machine Learning: What it is and why it matters." SAS. Accessed March 14, 2017. https://www.sas.com/en_us/insights/analytics/machine-learning.html.
+11. "Machine Learning: What it is and why it matters." SAS. Accessed March 14, 2017. https://www.sas.com/en_us/insights/analytics/machine-learning.html.
 "Supercharging Style Transfer." Google Research Blog. October 26, 2016. Accessed March 14, 2017. https://research.googleblog.com/2016/10/supercharging-style-transfer.html.
 
-"Welcome to Magenta!" Magenta. June 01, 2016. Accessed March 14, 2017. https://magenta.tensorflow.org/welcome-to-magenta.
+12. "Welcome to Magenta!" Magenta. June 01, 2016. Accessed March 14, 2017. https://magenta.tensorflow.org/welcome-to-magenta.
 
 
