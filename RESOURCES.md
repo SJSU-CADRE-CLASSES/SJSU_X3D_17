@@ -82,3 +82,7 @@ Resources
 * https://www.youtube.com/watch?v=ybM6lL16nFg
 * https://phys.org/news/2016-03-light-up-skin-boundaries-robotics.html
 * https://vimeo.com/25401444
+
+## 3/16
+-------
+* https://www.lulzbot.com/cura
