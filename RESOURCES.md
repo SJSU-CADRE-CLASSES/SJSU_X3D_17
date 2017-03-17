@@ -86,3 +86,4 @@ Resources
 ## 3/16
 -------
 * https://www.lulzbot.com/cura
+* https://www.youtube.com/watch?v=s-mlPE8pxs4
