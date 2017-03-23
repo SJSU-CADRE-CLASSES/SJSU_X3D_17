@@ -33,6 +33,7 @@ Class Website: https://github.com/ablanton/SJSU_X3D_17
 ###### [Tom Lin Project 1](https://github.com/ablanton/SJSU_X3D_17/blob/master/Project_One/tlin_proj01_hands-of-fare)
 ###### [Kathy Nguyen Project 1](https://github.com/ablanton/SJSU_X3D_17/blob/master/Project_One/project1kathynguyen.pdf)
 ###### [Samuel Yeung Project 1](https://github.com/ablanton/SJSU_X3D_17/blob/master/Project_One/SamuelYeungProjectOne.pdf)
+###### [Emily Fong Project 1](https://github.com/ablanton/SJSU_X3D_17/blob/master/Project_One/EmilyFongProjectOne.pdf)
 
 
 ###### Project Two
@@ -43,6 +44,7 @@ Class Website: https://github.com/ablanton/SJSU_X3D_17
 ###### [James White Project 2](https://vimeo.com/209788194)
 ###### [Lauren Hanf Project 2](https://vimeo.com/209774510)
 ###### [Joshua Nolan Project 2](https://vimeo.com/209794152)
+###### [Emily Fong Project 2](https://vimeo.com/209688947)
 
 ###### Project Three
 --------------------
