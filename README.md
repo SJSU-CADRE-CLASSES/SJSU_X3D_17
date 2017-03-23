@@ -34,8 +34,7 @@ Class Website: https://github.com/ablanton/SJSU_X3D_17
 ###### [Kathy Nguyen Project 1](https://github.com/ablanton/SJSU_X3D_17/blob/master/Project_One/project1kathynguyen.pdf)
 ###### [Samuel Yeung Project 1](https://github.com/ablanton/SJSU_X3D_17/blob/master/Project_One/SamuelYeungProjectOne.pdf)
 ###### [Emily Fong Project 1](https://github.com/ablanton/SJSU_X3D_17/blob/master/Project_One/EmilyFongProjectOne.pdf)
-###### [Kristie Cook Project 1] (https://github.com/ablanton/SJSU_X3D_17/blob/master/Project_One/KristieCookProjectOne.pdf)
-
+###### [Kristie Cook Project 1](https://github.com/ablanton/SJSU_X3D_17/blob/master/Project_One/KristieCookProjectOne.pdf)
 
 ###### Project Two
 ------------------
