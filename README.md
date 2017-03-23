@@ -46,6 +46,7 @@ Class Website: https://github.com/ablanton/SJSU_X3D_17
 ###### [Joshua Nolan Project 2](https://vimeo.com/209794152)
 ###### [Emily Fong Project 2](https://vimeo.com/209688947)
 ###### [Kathy Nguyen Project 2](https://vimeo.com/209796984)
+###### [Tony Luong 2](https://vimeo.com/209803124)
 
 ###### Project Three
 --------------------
