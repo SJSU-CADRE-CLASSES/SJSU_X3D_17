@@ -35,7 +35,7 @@ Class Website: https://github.com/ablanton/SJSU_X3D_17
 
 ###### Project Two
 ------------------
-
+###### [Anthony Flores-Rodriguez Project 2](https://vimeo.com/209701404)
 ###### Project Three
 --------------------
 
