@@ -41,7 +41,7 @@ Class Website: https://github.com/ablanton/SJSU_X3D_17
 ###### [Kong Vue Project 2](https://vimeo.com/209772870)
 ###### [Jay Quintos Project 2](https://vimeo.com/209699885)
 ###### [James White Project 2](https://vimeo.com/209788194)
-###### [James White Project 2](https://vimeo.com/209774510)
+###### [Lauren Hanf Project 2](https://vimeo.com/209774510)
 ###### Project Three
 --------------------
 
