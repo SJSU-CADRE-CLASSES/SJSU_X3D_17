@@ -91,17 +91,17 @@ Schedule
 | *Week 10* 03/28     | Spring Break |
 | 03/30               | Spring Break |
 | *Week 11* 04/04     | 3D printing and advanced manufacturing techniques *** intro to other sculpting tools *** <Skill: Variable> ***  students work on concepts for third project |
-| 04/06               | **Due: Reading 3** *** Show and Tell: Different Maya Components  (Student Presentations) |
-| *04/07*             | *Paseo Day One* |
-| *04/08*             | *Paseo Day Two* Events start at 10:00am Andrew Talks at 3pm and Performs at 4:30pm |
-| *Week 12* 04/11     | In class work on Third Project + prototyping exercise |
+| 04/06               | *** Show and Tell: Different Maya Components  (Student Presentations) |
+| **04/07**           | **Paseo Day One** |
+| **04/08**           | **Paseo Day Two** Events start at 10:00am Andrew Talks at 3pm and Performs at 4:30pm |
+| *Week 12* 04/11     | **Due: Reading 3** In class work on Third Project + prototyping exercise |
 | 04/13               | Screen Inspiration Videos + discussion *** Work in class on projects |
 | *Week 13* 04/18     |  **Third Project Due** |
-| 04/20               | Introduction to Unity |
-| *Week 14* 04/25     | **Due: Reading 4** Introduction of Final *** In Class Exercise |
+| 04/20               | Introduction to Unity - navigation - interface layout - pipeline from maya to Unity |
+| *Week 14* 04/25     | **Due: Reading 4** Introduction of Final *** Unity Asset Store - rigging and camera *** In Class Exercise for Conceptual Development |
 | 04/27               | Autodesk Fieldtrip!!! *** Meet at 3 pm at Pier 9 in San Francisco **Due Ideas + Concepts for the final project** (each student/team must post to git with sketches/research notes/and concepts they are interested in) |
-| *Week 15* 05/02     | Rendering Week + Work Week For Final Project |
-| 05/4                | Rendering Week + Work Week For Final Project |
+| *Week 15* 05/02     | Work Week For Final Project |
+| 05/4                | Work Week For Final Project |
 | *Week 16* 05/09     | **Final Project Due** *** Presentation Day ---> Student Presentation of Final Project |
 | 05/11               | Presentation Day ---> Student Presentation of Final Project |
 | *Final*  05/16      | The final project + paper is due no later then May 16th |
