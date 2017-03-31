@@ -90,8 +90,8 @@ Schedule
 | 03/23               | **Due: Second Project** *** Presentation Day ---> Student Presentation of Second Project |
 | *Week 10* 03/28     | Spring Break |
 | 03/30               | Spring Break |
-| *Week 11* 04/04     | **Due: Reading 3** *** Refresh of Time based animation (scene setup and batch render) *** <Skill: Variable> *** Organizing groups for third project |
-| 04/06               | Show and Tell: Different Maya Components  (Student Presentations) |
+| *Week 11* 04/04     | Refresh of Time based animation (scene setup and batch render) *** <Skill: Variable> *** Organizing groups for third project |
+| 04/06               | **Due: Reading 3** *** Show and Tell: Different Maya Components  (Student Presentations) |
 | *Week 12* 04/11     | In class work on Third Project + prototyping exercise |
 | 04/13               | Screen Inspiration Videos + discussion *** Work in class on projects |
 | *Week 13* 04/18     |  **Third Project Due** |

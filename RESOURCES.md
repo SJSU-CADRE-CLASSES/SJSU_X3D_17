@@ -87,3 +87,20 @@ Resources
 -------
 * https://www.lulzbot.com/cura
 * https://www.youtube.com/watch?v=s-mlPE8pxs4
+
+## 3/21
+-------
+* https://vimeo.com/50200793
+* http://thisisalive.com/
+* https://www.youtube.com/watch?v=ypKg3e5lbFU
+* https://www.youtube.com/watch?v=tYytVzbPky8
+* https://gaite-lyrique.net/en/exposition/motion-factory
+* https://www.youtube.com/watch?v=c-4xVEsXNP8
+* https://vimeo.com/116582567
+* https://www.google.com/search?q=duchamp+record+images&tbm=isch&imgil=KTkJw2QqoqrneM%253A%253BAWRZsPQxTQvg7M%253Bhttp%25253A%25252F%25252Fwww.electricalaudio.com%25252FphpBB3%25252Fviewtopic.php%25253Ff%2525253D4%25252526t%2525253D41612%25252526start%2525253D80&source=iu&pf=m&fir=KTkJw2QqoqrneM%253A%252CAWRZsPQxTQvg7M%252C_&usg=__Vt1rPs1tfY8WLhtVayfmg40SCfI%3D&biw=1279&bih=514&ved=0ahUKEwinxYfds-jSAhVD6WMKHTusBCEQyjcINw&ei=qojRWKfIN8PSjwO72JKIAg#imgrc=HFR_b3pb3v7GnM:
+* https://vimeo.com/15715431
+* https://vimeo.com/37097592
+* https://vimeo.com/20670439
+* http://eyebeam.org/residency-information/
+* https://www.youtube.com/watch?v=cmixe-Dii0Y
+* https://vimeo.com/88896536
