@@ -90,12 +90,14 @@ Schedule
 | 03/23               | **Due: Second Project** *** Presentation Day ---> Student Presentation of Second Project |
 | *Week 10* 03/28     | Spring Break |
 | 03/30               | Spring Break |
-| *Week 11* 04/04     | Refresh of Time based animation (scene setup and batch render) *** <Skill: Variable> *** Organizing groups for third project |
+| *Week 11* 04/04     | 3D printing and advanced manufacturing techniques *** intro to other sculpting tools *** <Skill: Variable> ***  students work on concepts for third project |
 | 04/06               | **Due: Reading 3** *** Show and Tell: Different Maya Components  (Student Presentations) |
+| *04/07*             | *Paseo Day One* |
+| *04/08*             | *Paseo Day Two* Events start at 10:00am Andrew Talks at 3pm and Performs at 4:30pm |
 | *Week 12* 04/11     | In class work on Third Project + prototyping exercise |
 | 04/13               | Screen Inspiration Videos + discussion *** Work in class on projects |
 | *Week 13* 04/18     |  **Third Project Due** |
-| 04/20               | Student Presentation of Third Project |
+| 04/20               | Introduction to Unity |
 | *Week 14* 04/25     | **Due: Reading 4** Introduction of Final *** In Class Exercise |
 | 04/27               | Autodesk Fieldtrip!!! *** Meet at 3 pm at Pier 9 in San Francisco **Due Ideas + Concepts for the final project** (each student/team must post to git with sketches/research notes/and concepts they are interested in) |
 | *Week 15* 05/02     | Rendering Week + Work Week For Final Project |
