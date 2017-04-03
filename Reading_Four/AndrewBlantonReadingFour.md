@@ -1,4 +1,4 @@
-Second Reading Assignment
+Fourth Reading Assignment
 -------------------------
 
 Hi all! For Thursday please read the article located [here](https://hyperallergic.com/369060/transhumanism-and-the-promise-of-the-bodiless-mind-in-the-original-ghost-in-the-shell/) and push your response to the git repo. Please write a paragraph to a page (200-600 words) discussing what you think of this talk as well as some of your thoughts about the ideas in the reading.
