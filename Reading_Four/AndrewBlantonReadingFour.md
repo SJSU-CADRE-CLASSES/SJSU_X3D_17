@@ -1,7 +1,7 @@
 Fourth Reading Assignment
 -------------------------
 
-Hi all! For Thursday please read the article located [here](https://hyperallergic.com/369060/transhumanism-and-the-promise-of-the-bodiless-mind-in-the-original-ghost-in-the-shell/) and push your response to the git repo. Please write a paragraph to a page (200-600 words) discussing what you think of this talk as well as some of your thoughts about the ideas in the reading.
+Hi all! For Tuesday 4/25 please read the article located [here](https://hyperallergic.com/369060/transhumanism-and-the-promise-of-the-bodiless-mind-in-the-original-ghost-in-the-shell/) and push your response to the git repo. Please write a paragraph to a page (200-600 words) discussing what you think of this talk as well as some of your thoughts about the ideas in the reading.
 
 It's always a good idea to cite sources in Chicago format([1](http://www.chicagomanualofstyle.org/tools_citationguide.html)) and try to cite specific artist or projects that you are interested in. I also encourage you to incorporate images and gif's to further bolster your arguments.
 
