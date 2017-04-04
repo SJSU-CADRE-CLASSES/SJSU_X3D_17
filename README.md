@@ -49,6 +49,7 @@ Class Website: https://github.com/ablanton/SJSU_X3D_17
 ###### [Tony Luong 2](https://vimeo.com/209803124)
 ###### [Kristie Cook 2](https://vimeo.com/209441623)
 ###### [Michael Yue Project 2](https://vimeo.com/209791959?activityReferer=1)
+###### [Buse Ur Project 2](https://vimeo.com/211506769)
 
 
 ###### Project Three
