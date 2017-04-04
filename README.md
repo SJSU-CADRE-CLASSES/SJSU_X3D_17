@@ -36,6 +36,7 @@ Class Website: https://github.com/ablanton/SJSU_X3D_17
 ###### [Emily Fong Project 1](https://github.com/ablanton/SJSU_X3D_17/blob/master/Project_One/EmilyFongProjectOne.pdf)
 ###### [Kristie Cook Project 1](https://github.com/ablanton/SJSU_X3D_17/blob/master/Project_One/KristieCookProjectOne.pdf)
 ###### [Ryan Allen Project 1](https://github.com/ablanton/SJSU_X3D_17/blob/master/Project_One/RyanAllenProjectOne.pdf)
+###### [Brian Ressler Project 1](https://github.com/ablanton/SJSU_X3D_17/blob/master/Project_One/BrianResslerProjectOne.pdf)
 
 ###### Project Two
 ------------------
