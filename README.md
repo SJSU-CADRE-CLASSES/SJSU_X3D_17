@@ -48,15 +48,11 @@ Class Website: https://github.com/ablanton/SJSU_X3D_17
 ###### [Kathy Nguyen Project 2](https://vimeo.com/209796984)
 ###### [Tony Luong 2](https://vimeo.com/209803124)
 ###### [Kristie Cook 2](https://vimeo.com/209441623)
-
 ###### [Michael Yue Project 2](https://vimeo.com/209791959?activityReferer=1)
 
 
 ###### Project Three
 --------------------
-
-###### Project Four
--------------------
 
 ###### Final
 ------------
