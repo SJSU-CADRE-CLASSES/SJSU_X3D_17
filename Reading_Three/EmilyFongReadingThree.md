@@ -1,4 +1,4 @@
-<img src=http://www.ibraaz.org/custom_images/880x/usr/library/images/main/essay_mar17_aly_7.jpg alt="building" style="width:50%;height:50% >
+<img src=http://www.ibraaz.org/custom_images/880x/usr/library/images/main/essay_mar17_aly_7.jpg style=width:50%;height:50%>
 
 <h3> Reading 3 </h3>
 
