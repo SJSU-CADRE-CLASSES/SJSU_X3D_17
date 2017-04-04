@@ -37,6 +37,7 @@ Class Website: https://github.com/ablanton/SJSU_X3D_17
 ###### [Kristie Cook Project 1](https://github.com/ablanton/SJSU_X3D_17/blob/master/Project_One/KristieCookProjectOne.pdf)
 ###### [Ryan Allen Project 1](https://github.com/ablanton/SJSU_X3D_17/blob/master/Project_One/RyanAllenProjectOne.pdf)
 ###### [Brian Ressler Project 1](https://github.com/ablanton/SJSU_X3D_17/blob/master/Project_One/BrianResslerProjectOne.pdf)
+###### [Jennifer Seo Project 1](https://github.com/ablanton/SJSU_X3D_17/blob/master/Project_One/JenniferSeoProject1.pdf)
 
 ###### Project Two
 ------------------
@@ -55,6 +56,7 @@ Class Website: https://github.com/ablanton/SJSU_X3D_17
 ###### [Leily Khatibi Project 2](https://vimeo.com/209944603)
 ###### [Samuel Yeung Project 2](https://vimeo.com/209819982)
 ###### [Ryan Allen Project 2](https://vimeo.com/210396551)
+###### [Jennifer Seo Project 2](https://vimeo.com/209796566)
 
 ###### Project Three
 --------------------
