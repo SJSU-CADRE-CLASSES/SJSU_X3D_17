@@ -104,3 +104,7 @@ Resources
 * http://eyebeam.org/residency-information/
 * https://www.youtube.com/watch?v=cmixe-Dii0Y
 * https://vimeo.com/88896536
+
+## 4/06
+-------
+* https://www.youtube.com/watch?v=dIAb-jtO8bw
