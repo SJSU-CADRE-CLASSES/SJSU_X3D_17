@@ -123,4 +123,8 @@ Resources
 
 ## 4/06
 -------
+* https://www.youtube.com/watch?v=CeZlih4DDNg
+* https://www.youtube.com/channel/UCbM2XhkLUniAaiOnzZUW7ng
+* https://www.youtube.com/watch?v=KH4NrUxcsYs
 * https://www.youtube.com/watch?v=dIAb-jtO8bw
+
