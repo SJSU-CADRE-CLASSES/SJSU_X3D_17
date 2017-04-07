@@ -105,6 +105,22 @@ Resources
 * https://www.youtube.com/watch?v=cmixe-Dii0Y
 * https://vimeo.com/88896536
 
+## 4/4
+------
+* http://www.awesomefoundation.org/en/projects/26925-dark-matter
+* https://www.google.com/search?{google:acceptedSuggestion}oq=anthropacene&sourceid=chrome&ie=UTF-8&q=anthropacene#q=anthropocene&
+* https://vimeo.com/107426024
+* https://www.google.com/search?q=cat+armor&tbm=isch&tbo=u&source=univ&sa=X&ved=0ahUKEwjW_PKHyovTAhVlyVQKHTXfD6MQsAQIGw&biw=1367&bih=742#imgrc=nMrfN8ov6AVg1M:
+* http://3dprintingfromscratch.com/common/types-of-3d-printers-or-3d-printing-technologies-overview/
+* https://www.google.com/search?q=stelarc&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjZhY7azIvTAhWixlQKHZXfDCgQ_AUICCgB&biw=1367&bih=742&dpr=2#imgrc=D-Br_R8f-bODsM:
+* https://www.youtube.com/watch?v=PM-l05XusNU&feature=youtu.be
+* http://www.tanyabonakdargallery.com/artists/agnieszka-kurant/series-works_10/22
+* https://www.google.com/search?q=3d+printed+gun&tbm=isch&tbo=u&source=univ&sa=X&ved=0ahUKEwiTpuXMyovTAhXCjVQKHao1CScQsAQIMw&biw=1855&bih=1060&dpr=2
+* http://www.boredpanda.com/3d-printed-hermit-crab-shells-architecture-aki-inomata/
+* http://www.tiareribeaux.com/
+* https://www.youtube.com/watch?v=AtjvyQqim50
+* http://www.ted.com/talks/golan_levin_ted2009#t-14266
+
 ## 4/06
 -------
 * https://www.youtube.com/watch?v=dIAb-jtO8bw
