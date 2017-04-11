@@ -3,3 +3,5 @@ It is my understanding that this reading is trying to describe a subset of style
 In addition, to the philosophical implications, ElNemr’s works also seems to convey an aesthetic which contrasts the organic and inorganic.  Much of her work seems to have some sort of structure or shrapnel in a natural environment.  One of her works which is called “The Dictionary of Imaginary Places” does this much more subtly by showing an obviously man made environment but at the same time a shadow of a tree is shown, which still in a sense represents her style accurately.  
 
 Overall, ElNemr’s work is admirable in that it addresses an obscure subject matter which is landscapes of Egypt which seem to resemble each other by contrasting architecture and organic matter.  I myself have not produced work of this magnitude except perhaps in a photography project in which I photographed withered branches against the architecture of a church.
+
+[Imgur](http://i.imgur.com/TQjlORi.jpg)
