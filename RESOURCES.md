@@ -128,3 +128,14 @@ Resources
 * https://www.youtube.com/watch?v=KH4NrUxcsYs
 * https://www.youtube.com/watch?v=dIAb-jtO8bw
 
+## 4/11
+-------
+* https://www.youtube.com/watch?v=JNU7bxKwknk
+* https://www.youtube.com/watch?v=7LVsiP0s33A
+* http://artes.ucp.pt/enterface17/index.html
+* https://www.raspberrypi.org/
+* https://www.youtube.com/watch?v=0pDE4VX_9Kk
+* https://www.google.com/search?q=boullee&source=lnms&tbm=isch&sa=X&ved=0ahUKEwi-jca5mZ3TAhVIxFQKHWgFDksQ_AUICCgB&biw=1896&bih=1090#imgrc=XcCjBsqUEfokqM:
+* https://www.google.com/search?q=dark+matter+morehshin&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjV8pSdoJ3TAhVo0FQKHTaBAIsQ_AUICSgC&biw=1295&bih=638
+* https://occupyhere.org/
+
