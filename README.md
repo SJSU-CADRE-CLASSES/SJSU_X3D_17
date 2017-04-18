@@ -42,11 +42,30 @@ Class Website: https://github.com/ablanton/SJSU_X3D_17
 ###### Project Two
 ------------------
 ###### [Anthony Flores-Rodriguez Project 2](https://vimeo.com/209701404)
-###### [Kong Vue Project 2](https://vimeo.com/209772870)
+###### [Kong Vue Project 2](https://vimeo.com/213470777)
 ###### [Jay Quintos Project 2](https://vimeo.com/209699885)
-###### [James White Project 2](https://vimeo.com/209788194)
+###### [James White Project 2](https://vimeo.com/211544417)
 ###### [Lauren Hanf Project 2](https://vimeo.com/209774510)
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< Updated upstream
+###### [Joshua Nolan Project 2](https://vimeo.com/209794152)
+=======
+<<<<<<< HEAD
 ###### [Joshua Nolan Project 2](https://vimeo.com/211544417)
+=======
+
+>>>>>>> Stashed changes
+=======
+###### [Joshua Nolan Project 2](https://vimeo.com/211544417)
+>>>>>>> origin/master
+=======
+###### [Joshua Nolan Project 2](https://vimeo.com/211544417)
+>>>>>>> origin/master
+=======
+###### [Joshua Nolan Project 2](https://vimeo.com/211544417)
+>>>>>>> origin/master
 ###### [Emily Fong Project 2](https://vimeo.com/209688947)
 ###### [Kathy Nguyen Project 2](https://vimeo.com/209796984)
 ###### [Tony Luong 2](https://vimeo.com/209803124)
@@ -56,12 +75,32 @@ Class Website: https://github.com/ablanton/SJSU_X3D_17
 ###### [Leily Khatibi Project 2](https://vimeo.com/209944603)
 ###### [Samuel Yeung Project 2](https://vimeo.com/209819982)
 ###### [Ryan Allen Project 2](https://vimeo.com/210396551)
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< Updated upstream
+=======
+>>>>>>> origin/master
+>>>>>>> Stashed changes
+=======
 ###### [Jennifer Seo Project 2](https://vimeo.com/209796566)
-###### [Brian Ressler Project 2 (Will Update When Render is Done)](https://vimeo.com/211551362)
+###### [Brian Ressler Project 2 FINALLY DONE](https://vimeo.com/213592425)
 ###### [Tom Lin Project 2](https://vimeo.com/209696528)
+>>>>>>> origin/master
+=======
+###### [Jennifer Seo Project 2](https://vimeo.com/209796566)
+###### [Brian Ressler Project 2 FINALLY DONE](https://vimeo.com/213592425)
+###### [Tom Lin Project 2](https://vimeo.com/209696528)
+>>>>>>> origin/master
+=======
+###### [Jennifer Seo Project 2](https://vimeo.com/209796566)
+###### [Brian Ressler Project 2 FINALLY DONE](https://vimeo.com/213592425)
+###### [Tom Lin Project 2](https://vimeo.com/209696528)
+>>>>>>> origin/master
 
 ###### Project Three
 --------------------
-
+###### [Kong Vue Project 3](https://github.com/ablanton/SJSU_X3D_17/blob/master/Project_Three/kong3dprint.pdf)
+###### [Tony Luong Project 3](https://github.com/ablanton/SJSU_X3D_17/blob/master/Project_Three/TonyLuongProject3.pdf)
 ###### Final
 ------------
