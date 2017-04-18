@@ -1,5 +1,7 @@
-https://drive.google.com/file/d/0B4maQPbwDY-hQzJLLWxnSll5M28/view?usp=sharing
 
+<img src="http://i.imgur.com/DnvT68H.png">
+
+<br>
 
 I wanted to focus about how we, as humans, tend to ignore how we are trashing our oceans. I thought about how the BP oil spill in 2010 was so devastating to our oceans and I wanted to portray how it is still affecting our ocean today. 
 
