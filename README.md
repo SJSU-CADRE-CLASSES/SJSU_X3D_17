@@ -105,9 +105,8 @@ Class Website: https://github.com/ablanton/SJSU_X3D_17
 ###### [Tony Luong Project 3](https://github.com/ablanton/SJSU_X3D_17/blob/master/Project_Three/TonyLuongProject3.pdf)
 ###### [Emily Fong Project 3](https://github.com/ablanton/SJSU_X3D_17/blob/master/Project_Three/EmilyFong%20Project3.md)
 ###### [Anthony Flores-Rodriguez Project 3](https://github.com/ablanton/SJSU_X3D_17/blob/master/Project_Three/AnthonyFloresProjectThree.pdf)
-=======
-###### [Michael Yue Project 3](https://github.com/ablanton/SJSU_X3D_17/blob/master/Project_Three/Model.pdf)
-###### [Michael Yue Project 3](https://github.com/ablanton/SJSU_X3D_17/blob/master/Project_Three/Witch.pdf)
->>>>>>> Stashed changes
+
+
+
 ###### Final
 ------------
