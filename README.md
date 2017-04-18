@@ -106,7 +106,6 @@ Class Website: https://github.com/ablanton/SJSU_X3D_17
 =======
 ###### [Kong Vue Project 3](https://github.com/ablanton/SJSU_X3D_17/blob/master/Project_Three/kong3dprint.pdf)
 ###### [Tony Luong Project 3](https://github.com/ablanton/SJSU_X3D_17/blob/master/Project_Three/Tony%20Luong%20Project%203%20.pdf)
->>>>>>> origin/master
 ###### [Emily Fong Project 3](https://github.com/ablanton/SJSU_X3D_17/blob/master/Project_Three/EmilyFong%20Project3.md)
 ###### [Anthony Flores-Rodriguez Project 3](https://github.com/ablanton/SJSU_X3D_17/blob/master/Project_Three/AnthonyFloresProjectThree.pdf)
 ###### [Michael Yue Project 3](https://github.com/ablanton/SJSU_X3D_17/blob/master/Project_Three/image%20.pdf)
