@@ -48,6 +48,7 @@ Class Website: https://github.com/ablanton/SJSU_X3D_17
 ###### [Lauren Hanf Project 2](https://vimeo.com/209774510)
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 ###### [Joshua Nolan Project 2](https://vimeo.com/209794152)
 =======
@@ -56,6 +57,9 @@ Class Website: https://github.com/ablanton/SJSU_X3D_17
 =======
 
 >>>>>>> Stashed changes
+=======
+###### [Joshua Nolan Project 2](https://vimeo.com/211544417)
+>>>>>>> origin/master
 =======
 ###### [Joshua Nolan Project 2](https://vimeo.com/211544417)
 >>>>>>> origin/master
@@ -73,10 +77,16 @@ Class Website: https://github.com/ablanton/SJSU_X3D_17
 ###### [Ryan Allen Project 2](https://vimeo.com/210396551)
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 =======
 >>>>>>> origin/master
 >>>>>>> Stashed changes
+=======
+###### [Jennifer Seo Project 2](https://vimeo.com/209796566)
+###### [Brian Ressler Project 2 FINALLY DONE](https://vimeo.com/213592425)
+###### [Tom Lin Project 2](https://vimeo.com/209696528)
+>>>>>>> origin/master
 =======
 ###### [Jennifer Seo Project 2](https://vimeo.com/209796566)
 ###### [Brian Ressler Project 2 FINALLY DONE](https://vimeo.com/213592425)
