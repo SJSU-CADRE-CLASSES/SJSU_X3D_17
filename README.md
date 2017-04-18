@@ -100,7 +100,7 @@ Class Website: https://github.com/ablanton/SJSU_X3D_17
 
 ###### Project Three
 --------------------
-<<<<<<< HEAD
+
 ###### [Kong Vue Project 3](https://github.com/ablanton/SJSU_X3D_17/blob/master/Project_Three/KongProject3.pdf)
 <!-- ###### [Tony Luong Project 3](https://github.com/ablanton/SJSU_X3D_17/blob/master/Project_Three/TonyLuongProject3.pdf) -->
 ###### [Tony Luong Project 3](https://github.com/ablanton/SJSU_X3D_17/blob/master/Project_Three/Tony%20Luong%20Project%203%20.pdf)
