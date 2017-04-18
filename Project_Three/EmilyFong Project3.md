@@ -3,6 +3,8 @@
 <h2>Project 3 : Palette Knives </h2>
 <br>
 
+<center>
+
 <img src="https://68.media.tumblr.com/01087fa8db7d63444c8fb32bb78bf5b5/tumblr_oome1jB9of1usmus4o3_1280.jpg" alt="waves">
 <br>
 <img src="https://68.media.tumblr.com/63c764222dcdd97b6fb501a3f8fa03e4/tumblr_oome1jB9of1usmus4o2_1280.jpg" alt="waves">
@@ -19,7 +21,7 @@
 <br>
 <img src="https://68.media.tumblr.com/2131620a4fc6a53b8de613ce0507216e/tumblr_oome1jB9of1usmus4o5_1280.jpg" alt="waves">
 
-
+</center>
 
 
 
