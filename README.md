@@ -107,7 +107,7 @@ Class Website: https://github.com/ablanton/SJSU_X3D_17
 ###### [Emily Fong Project 3](https://github.com/ablanton/SJSU_X3D_17/blob/master/Project_Three/EmilyFong%20Project3.md)
 ###### [Anthony Flores-Rodriguez Project 3](https://github.com/ablanton/SJSU_X3D_17/blob/master/Project_Three/AnthonyFloresProjectThree.pdf)
 ###### [Michael Yue Project 3](https://github.com/ablanton/SJSU_X3D_17/blob/master/Project_Three/image%20.pdf)
-
+###### [Jay Quintos Project 3](https://github.com/ablanton/SJSU_X3D_17/blob/master/Project_Three/jayquintosproject3.pdf)
 
 ###### Final
 ------------
