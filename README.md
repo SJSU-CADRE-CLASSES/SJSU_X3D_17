@@ -82,6 +82,8 @@ Class Website: https://github.com/ablanton/SJSU_X3D_17
 ###### [Shawn Jones-Trammell Project 3](https://github.com/ablanton/SJSU_X3D_17/blob/master/Project_Three/ShawnJonesTrammellProject3.pdf)
 ###### [Kathy Nguyen Project 3](https://github.com/ablanton/SJSU_X3D_17/blob/master/Project_Three/kathynguyenproject3.pdf)
 ###### [Tom Lin Project 3](https://github.com/ablanton/SJSU_X3D_17/blob/master/Project_Three/tomlin_project03.pdf)
+###### [Buse Ur Project 3](https://vimeo.com/214070417)
+
 
 ###### Final
 ------------
