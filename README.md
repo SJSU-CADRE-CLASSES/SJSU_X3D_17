@@ -80,7 +80,7 @@ Class Website: https://github.com/ablanton/SJSU_X3D_17
 ###### [Brian Ressler Project 3](https://github.com/ablanton/SJSU_X3D_17/blob/master/Project_Three/BrianResslerProject3.pdf)
 ###### [Jennifer Seo Project 3](https://github.com/ablanton/SJSU_X3D_17/blob/master/Project_Three/JenniferSeoProjectThree.pdf)
 ###### [Shawn Jones-Trammell Project 3](https://github.com/ablanton/SJSU_X3D_17/blob/master/Project_Three/ShawnJonesTrammellProject3.pdf)
-
+###### [Kathy Nguyen Project 3](https://github.com/ablanton/SJSU_X3D_17/blob/master/Project_Three/kathynguyenproject3.pdf)
 
 
 ###### Final
