@@ -16,7 +16,7 @@ Class Website: https://github.com/ablanton/SJSU_X3D_17
 | [Resources](https://github.com/ablanton/SJSU_X3D_17/blob/master/RESOURCES.md)
 | [Class Website](https://github.com/ablanton/SJSU_X3D_17)
 
-###### Project One
+# Project One
 ------------------
 ###### [Andrew Blanton Project 1](https://github.com/ablanton/SJSU_X3D_17/blob/master/Project_One/SJSU_X3D_Project_1.pdf)
 ###### [Michael Yue Project 1](https://github.com/ablanton/SJSU_X3D_17/blob/master/Project_One/Michael_Yue%20First%20Project.pdf)
