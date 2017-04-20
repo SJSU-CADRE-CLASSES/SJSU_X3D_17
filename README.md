@@ -69,6 +69,7 @@ Class Website: https://github.com/ablanton/SJSU_X3D_17
 ###### [Jennifer Seo Project 2](https://vimeo.com/209796566)
 ###### [Brian Ressler Project 2 FINALLY DONE](https://vimeo.com/213592425)
 ###### [Tom Lin Project 2](https://vimeo.com/209696528)
+###### [Shawn Jones-Trammell Project 2](https://vimeo.com/211560312)
 
 ###### Project Three
 --------------------
