@@ -108,6 +108,8 @@ Class Website: https://github.com/ablanton/SJSU_X3D_17
 ###### [Anthony Flores-Rodriguez Project 3](https://github.com/ablanton/SJSU_X3D_17/blob/master/Project_Three/AnthonyFloresProjectThree.pdf)
 ###### [Michael Yue Project 3](https://github.com/ablanton/SJSU_X3D_17/blob/master/Project_Three/image%20.pdf)
 ###### [Jay Quintos Project 3](https://github.com/ablanton/SJSU_X3D_17/blob/master/Project_Three/jayquintosproject3.pdf)
+###### [Lauren Hanf Project 3](https://github.com/ablanton/SJSU_X3D_17/blob/master/Project_Three/LaurenHanfProject3.pdf)
+
 
 ###### Final
 ------------
