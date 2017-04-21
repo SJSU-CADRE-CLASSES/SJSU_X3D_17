@@ -4,6 +4,7 @@
 <br>
 
 <center>
+<p>I find the medium of 3D printing is a modern art tool. I wanted to relate it back to a traditional medium and still be a functional print. The art tools I decided to print were palette knives. They serve a simple function which is to mix paint and add texture to a painting. Palette knives are a relatively cheap tool that you can buy at any craft/art store so it was ironic for me to print it.  I found it hilarious the time and effort I took to print the knives because of how fragile they were. Due to the size of the 3D printer I use, I wanted to keep the knives small and see if I could print it a whole knife in one piece. Overall, I liked how it turned out. I think the miniature size is interesting and texture shows the medium well.</p>
 
 <img src="https://68.media.tumblr.com/01087fa8db7d63444c8fb32bb78bf5b5/tumblr_oome1jB9of1usmus4o3_1280.jpg" alt="waves">
 <br>
