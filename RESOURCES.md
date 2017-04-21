@@ -139,3 +139,12 @@ Resources
 * https://www.google.com/search?q=dark+matter+morehshin&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjV8pSdoJ3TAhVo0FQKHTaBAIsQ_AUICSgC&biw=1295&bih=638
 * https://occupyhere.org/
 
+## 4/20
+https://www.dukeupress.edu/new-materialisms
+https://en.wikipedia.org/wiki/Cradle-to-cradle_design
+https://www.google.com/search?q=nefertiti+3d&tbm=isch&tbo=u&source=univ&sa=X&ved=0ahUKEwiP_pHS9bPTAhUms1QKHYb1BUYQsAQILg&biw=1380&bih=648#imgrc=FNQIBhyVzNjNnM:
+http://www.instructables.com/id/Readymake-Duchamp-Chess-Pieces-3D-Recreations-from/
+https://www.google.com/search?q=birds+pacific+garbage&tbm=isch&tbo=u&source=univ&sa=X&ved=0ahUKEwiul8mT7LPTAhXHjlQKHeiLD6AQsAQIIw&biw=1380&bih=648&dpr=2
+http://www.theverge.com/circuitbreaker/2016/8/4/12376760/industrial-robot-tattoo
+https://store.unity.com/?_ga=1.176091170.1218995799.1492722785
+https://www.sophiekahn.net/portraits
