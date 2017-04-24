@@ -142,13 +142,18 @@ Resources
 * http://rtlln1kraz3heqyqi5ac19ce.wpengine.netdna-cdn.com/wp-content/uploads/2016/11/2014-15-CAST-Booklet_web.pdf
 * https://www.google.com/search?q=material+speculation&source=lnms&tbm=isch&sa=X&ved=0ahUKEwiHudDZlaLTAhXIrVQKHXJPASAQ_AUICSgC&biw=1856&bih=1085#imgrc=oosfmqYsDcgX9M:
 * https://www.falcon-nw.com/desktops/tiki/design
+* http://www.boredpanda.com/nature-reclaiming-civilization/
+* https://www.google.com/search?q=nasturtium&source=lnms&tbm=isch&sa=X&ved=0ahUKEwiP6OKo267TAhXqhVQKHR45B7IQ_AUICCgB&biw=1887&bih=1088&dpr=1#tbm=isch&q=chia&imgrc=QwcprpkfnxttrM:
+* https://formlabs.com/
+* http://www.stratasys.com/3d-printers
+* http://taste-of-data.tumblr.com/
 
 ## 4/20
-https://www.dukeupress.edu/new-materialisms
-https://en.wikipedia.org/wiki/Cradle-to-cradle_design
-https://www.google.com/search?q=nefertiti+3d&tbm=isch&tbo=u&source=univ&sa=X&ved=0ahUKEwiP_pHS9bPTAhUms1QKHYb1BUYQsAQILg&biw=1380&bih=648#imgrc=FNQIBhyVzNjNnM:
-http://www.instructables.com/id/Readymake-Duchamp-Chess-Pieces-3D-Recreations-from/
-https://www.google.com/search?q=birds+pacific+garbage&tbm=isch&tbo=u&source=univ&sa=X&ved=0ahUKEwiul8mT7LPTAhXHjlQKHeiLD6AQsAQIIw&biw=1380&bih=648&dpr=2
-http://www.theverge.com/circuitbreaker/2016/8/4/12376760/industrial-robot-tattoo
-https://store.unity.com/?_ga=1.176091170.1218995799.1492722785
-https://www.sophiekahn.net/portraits
+* https://www.dukeupress.edu/new-materialisms
+* https://en.wikipedia.org/wiki/Cradle-to-cradle_design
+* https://www.google.com/search?q=nefertiti+3d&tbm=isch&tbo=u&source=univ&sa=X&ved=0ahUKEwiP_pHS9bPTAhUms1QKHYb1BUYQsAQILg&biw=1380&bih=648#imgrc=FNQIBhyVzNjNnM:
+* http://www.instructables.com/id/Readymake-Duchamp-Chess-Pieces-3D-Recreations-from/
+* https://www.google.com/search?q=birds+pacific+garbage&tbm=isch&tbo=u&source=univ&sa=X&ved=0ahUKEwiul8mT7LPTAhXHjlQKHeiLD6AQsAQIIw&biw=1380&bih=648&dpr=2
+* http://www.theverge.com/circuitbreaker/2016/8/4/12376760/industrial-robot-tattoo
+* https://store.unity.com/?_ga=1.176091170.1218995799.1492722785
+* https://www.sophiekahn.net/portraits
