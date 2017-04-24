@@ -98,9 +98,9 @@ Schedule
 | 04/13               | Screen Inspiration Videos + discussion *** Work in class on projects |
 | *Week 13* 04/18     |  **Third Project Due** |
 | 04/20               | Introduction to Unity - navigation - interface layout - pipeline from maya to Unity |
-| *Week 14* 04/25     | **Due: Reading 4** Introduction of Final *** Unity Asset Store - rigging and camera *** In Class Exercise for Conceptual Development |
-| 04/27               | Autodesk Fieldtrip!!! *** Meet at 3 pm at Pier 9 in San Francisco **Due Ideas + Concepts for the final project** (each student/team must post to git with sketches/research notes/and concepts they are interested in) |
-| *Week 15* 05/02     | Work Week For Final Project |
+| *Week 14* 04/25     | **Guest Speaker: Patrick Lichty** Begin prototyping in Unity, workflow from maya to Unity, build basic scene |
+| 04/27               | **Due: Reading 4** Introduction of Final *** Unity Asset Store - rigging and camera *** In Class Exercise for Conceptual Development |
+| *Week 15* 05/02     | **Due Ideas + Concepts for the final project** (each student/team must post to git with sketches/research notes/and concepts they are interested in) Work in class on final |
 | 05/4                | Work Week For Final Project |
 | *Week 16* 05/09     | **Final Project Due** *** Presentation Day ---> Student Presentation of Final Project |
 | 05/11               | Presentation Day ---> Student Presentation of Final Project |
