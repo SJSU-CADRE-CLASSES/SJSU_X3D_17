@@ -129,7 +129,6 @@ Resources
 * https://www.youtube.com/watch?v=dIAb-jtO8bw
 
 ## 4/11
--------
 * https://www.youtube.com/watch?v=JNU7bxKwknk
 * https://www.youtube.com/watch?v=7LVsiP0s33A
 * http://artes.ucp.pt/enterface17/index.html
@@ -138,6 +137,11 @@ Resources
 * https://www.google.com/search?q=boullee&source=lnms&tbm=isch&sa=X&ved=0ahUKEwi-jca5mZ3TAhVIxFQKHWgFDksQ_AUICCgB&biw=1896&bih=1090#imgrc=XcCjBsqUEfokqM:
 * https://www.google.com/search?q=dark+matter+morehshin&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjV8pSdoJ3TAhVo0FQKHTaBAIsQ_AUICSgC&biw=1295&bih=638
 * https://occupyhere.org/
+
+## 4/13
+* http://rtlln1kraz3heqyqi5ac19ce.wpengine.netdna-cdn.com/wp-content/uploads/2016/11/2014-15-CAST-Booklet_web.pdf
+* https://www.google.com/search?q=material+speculation&source=lnms&tbm=isch&sa=X&ved=0ahUKEwiHudDZlaLTAhXIrVQKHXJPASAQ_AUICSgC&biw=1856&bih=1085#imgrc=oosfmqYsDcgX9M:
+* https://www.falcon-nw.com/desktops/tiki/design
 
 ## 4/20
 https://www.dukeupress.edu/new-materialisms
