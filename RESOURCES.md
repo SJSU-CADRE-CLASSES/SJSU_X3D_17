@@ -157,3 +157,16 @@ Resources
 * http://www.theverge.com/circuitbreaker/2016/8/4/12376760/industrial-robot-tattoo
 * https://store.unity.com/?_ga=1.176091170.1218995799.1492722785
 * https://www.sophiekahn.net/portraits
+
+## 5/2
+* https://www.google.com/search?{google:acceptedSuggestion}oq=snap+chat+glasses&sourceid=chrome&ie=UTF-8&q=snap+chat+glasses#q=snapchat+glasses
+* https://www.youtube.com/watch?v=-D2xLu5vefo
+* https://www.youtube.com/watch?v=HYsvlJgtAgY
+* http://openframeworks.cc/
+* https://vimeo.com/158647901
+* http://kollision.dk/en/urbanfuture
+* https://www.youtube.com/watch?v=DcyquvDEe0o
+* https://www.youtube.com/watch?v=lX6JcybgDFo
+* https://grayareafestival.io/
+* http://basel2017.designmiami.com/
+
