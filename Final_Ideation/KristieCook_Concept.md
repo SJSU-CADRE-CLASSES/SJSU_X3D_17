@@ -1,0 +1,1 @@
+I tend to change my mind rapidly throughout working on my pieces but my idea that I am currently trying to create will be a conceptual piece that the user can interact with by moving the object. My idea is inspired by a recent facebook demonstration of their oculus rift that I saw in Cesar Chavez park. 
