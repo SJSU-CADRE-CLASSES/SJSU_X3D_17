@@ -158,6 +158,16 @@ Resources
 * https://store.unity.com/?_ga=1.176091170.1218995799.1492722785
 * https://www.sophiekahn.net/portraits
 
+## 4/27
+* https://vimeo.com/211513776
+* https://www.mentalcanvas.com/
+* https://www.youtube.com/watch?v=NTZoxVH7OCg
+* https://www.youtube.com/watch?v=LiWlvBro9eI
+* https://www.youtube.com/watch?v=LY7x2Ihqjmc
+* http://www.morehshin.com/recitation-soliloquy/
+* https://vimeo.com/38618911
+* https://www.youtube.com/watch?v=bo1k7g_W7GM
+
 ## 5/2
 * https://www.google.com/search?{google:acceptedSuggestion}oq=snap+chat+glasses&sourceid=chrome&ie=UTF-8&q=snap+chat+glasses#q=snapchat+glasses
 * https://www.youtube.com/watch?v=-D2xLu5vefo
