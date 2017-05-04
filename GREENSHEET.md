@@ -102,7 +102,7 @@ Schedule
 | 04/27               | **Due: Reading 4** Introduction of Final *** Unity Asset Store - rigging and camera *** In Class Exercise for Conceptual Development |
 | *Week 15* 05/02     | **Due Ideas + Concepts for the final project** (each student/team must post to git with sketches/research notes/and concepts they are interested in) Work in class on final |
 | 05/4                | Work Week For Final Project |
-| *Week 16* 05/09     | **Final Project Due** *** Presentation Day ---> Student Presentation of Final Project |
-| 05/11               | Presentation Day ---> Student Presentation of Final Project |
-| *Final*  05/16      | The final project + paper is due no later then May 16th |
+| *Week 16* 05/09     | Work Week For Final Project |
+| 05/11               | Work Week For Final Project |
+| *Final*  05/16      | **Final Project Due** *** Presentation Day ---> Student Presentation of Final Project |
 |                  |  |
