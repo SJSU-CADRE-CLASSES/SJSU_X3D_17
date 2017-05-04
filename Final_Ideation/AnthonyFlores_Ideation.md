@@ -1,1 +1,1 @@
-<p> My concept or idea is create a floating city or variety of floating objects either in VR or in an animation</p>
+<p> My idea for this final project is create a floating city or variety of floating objects either in VR or in an animation. I plan on using sculptris and in relation to maya and unity to generate my floating objects. I'm hoping to get this running on VR, but in the event  I unable to make this in Unity, I will make a maya animated gif</p>
