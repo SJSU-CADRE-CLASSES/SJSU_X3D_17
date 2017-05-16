@@ -88,7 +88,7 @@ Class Website: https://github.com/ablanton/SJSU_X3D_17
 ###### Final
 ------------
 ###### [Brian Ressler and Jennifer Seo Final Collaboration](https://github.com/ablanton/SJSU_X3D_17/blob/master/Final/KongVueFinalProject.pdf)
-###### [Brian Ressler and Jennifer Final Project](https://github.com/ablanton/SJSU_X3D_17/blob/master/Final/Brian%20Ressler%20and%20Jennifer%20Seo%20Final.pdf.pdf)
+###### [Brian Ressler and Jennifer Final Project](https://github.com/ablanton/SJSU_X3D_17/blob/master/Final/Brian%20Ressler%20and%20Jennifer%20Seo%20Final.pdf)
 
 
 
