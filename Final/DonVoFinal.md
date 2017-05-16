@@ -13,6 +13,12 @@
 </p>
 <a href="http://smg.photobucket.com/user/xkamikazestylex/media/pointing_up.jpg.html" target="_blank"><img src="http://img.photobucket.com/albums/v235/xkamikazestylex/pointing_up.jpg" border="0" alt=" photo pointing_up.jpg"/></a>
 <p>
+<a href="http://smg.photobucket.com/user/xkamikazestylex/media/red_dawn.jpg.html" target="_blank"><img src="http://img.photobucket.com/albums/v235/xkamikazestylex/red_dawn.jpg" border="0" alt=" photo red_dawn.jpg"/></a>
+<p>
+<a href="http://smg.photobucket.com/user/xkamikazestylex/media/solid_night.jpg.html" target="_blank"><img src="http://img.photobucket.com/albums/v235/xkamikazestylex/solid_night.jpg" border="0" alt=" photo solid_night.jpg"/></a>
+<p>
+<a href="http://smg.photobucket.com/user/xkamikazestylex/media/Sunset.jpg.html" target="_blank"><img src="http://img.photobucket.com/albums/v235/xkamikazestylex/Sunset.jpg" border="0" alt=" photo Sunset.jpg"/></a>
+<p>
 <body>
 Have you ever thought about the future and how advance we can get as a society? I daydream from time to time about these random things. Technology have been evolving extremely fast in just the last few decades. News even say we can even live in Mars! As the human society continues to evolve. I’m pretty sure concepts and thoughts of humanity going beyond would become reality. I can imagine solar towers giving us unlimited energy and people living in space colonies floating in outer space in another decade or so. News out there mentioned a space program is funding a 12 miles elevator to save rocket fuel to travel to the moon. So my idea isn’t too far apart from this. 
 <p>
