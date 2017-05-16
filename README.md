@@ -87,3 +87,24 @@ Class Website: https://github.com/ablanton/SJSU_X3D_17
 
 ###### Final
 ------------
+###### [Kong Vue Project 3](https://github.com/ablanton/SJSU_X3D_17/blob/master/Project_Three/KongProject3.pdf)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
