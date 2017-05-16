@@ -1,1 +1,2 @@
 
+For my recent concept, I will deviate from building and developing on previous project. Now, I would do a project based on spirituality and Zen to show the relief of stressful times in school, work, or even life. Through spirituality and Zen, people will learn how to embrace positive energy surroundings in all situations.
