@@ -10,13 +10,13 @@ The video component is based on a candid photo from a recent sleep study.
 
 Overall I wanted to inspire curiousity and discomfort. The physical object is meant to be handled and feel fragile, barely held together, but presenting a cohesive front.
 
-If you would like to learn more about narcolepsy [The Harvard Medical School] (http://healthysleep.med.harvard.edu/narcolepsy/) site has a great overview and includes:
+If you would like to learn more about narcolepsy [The Harvard Medical School](http://healthysleep.med.harvard.edu/narcolepsy/) site has a great overview and includes:
  
-[Understanding Narcolepsy] (http://healthysleep.med.harvard.edu/narcolepsy/what-is-narcolepsy/understanding)
+[Understanding Narcolepsy](http://healthysleep.med.harvard.edu/narcolepsy/what-is-narcolepsy/understanding)
 
-[Symptoms] (http://healthysleep.med.harvard.edu/narcolepsy/what-is-narcolepsy/narcolepsy_symptoms)
+[Symptoms](http://healthysleep.med.harvard.edu/narcolepsy/what-is-narcolepsy/narcolepsy_symptoms)
 
-[Living with Narcolepsy at School] (http://healthysleep.med.harvard.edu/narcolepsy/living-with-narcolepsy/at-school)
+[Living with Narcolepsy at School](http://healthysleep.med.harvard.edu/narcolepsy/living-with-narcolepsy/at-school)
 
 
 
