@@ -94,6 +94,7 @@ Class Website: https://github.com/ablanton/SJSU_X3D_17
 ###### [Michael Yue Final Project](https://github.com/ablanton/SJSU_X3D_17/blob/master/Final/Final%20Project.pdf)
 ###### [Lauren Hanf Final Project part 1](https://github.com/ablanton/SJSU_X3D_17/blob/master/Final/LaurenHanf_Final.md)
 ###### [Lauren Hanf Final Project part 2](https://github.com/ablanton/SJSU_X3D_17/blob/master/Final/LaurenHanf_Final.pdf)
+###### [Tom Lin Final Project](https://github.com/ablanton/SJSU_X3D_17/blob/master/Final/tom-lin-final.pdf)
 
 
 
