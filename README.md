@@ -37,6 +37,7 @@ Class Website: https://github.com/ablanton/SJSU_X3D_17
 ###### [Ryan Allen Project 1](https://github.com/ablanton/SJSU_X3D_17/blob/master/Project_One/RyanAllenProjectOne.pdf)
 ###### [Brian Ressler Project 1](https://github.com/ablanton/SJSU_X3D_17/blob/master/Project_One/BrianResslerProjectOne.pdf)
 ###### [Jennifer Seo Project 1](https://github.com/ablanton/SJSU_X3D_17/blob/master/Project_One/JenniferSeoProject1.pdf) ••
+###### [Lauren Hanf Project 1](https://github.com/ablanton/SJSU_X3D_17/blob/master/Project_One/LaurenHanfProject1.pdf)
 
 ###### Project Two
 ------------------
